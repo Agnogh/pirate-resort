@@ -95,6 +95,7 @@ body {
     display: flex;
     flex-direction: column;
     color: aquamarine;
+    font-family: "Rouge Script";
 }
 
 header {
