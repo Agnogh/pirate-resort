@@ -118,3 +118,9 @@ footer {
     color:teal;
     background-color:darkorange;
 }
+
+@media screen and (max-width: 768px) {
+    .header_large_devices {
+        display: none;
+    }
+}
