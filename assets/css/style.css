@@ -10,7 +10,7 @@
   
 .oswald-osw-agn {
     font-family: "Oswald", serif;
-    font-optical-sizing: auto;
+    font-optical-sizing: auto; 
     font-weight: 200;
     font-style: normal;
   }
@@ -113,8 +113,17 @@ header {
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
 h1 {
-    font-family: "Rouge Script", "Oswald";
+    font-family: "Lavishly Yours", "Rouge Script", "Oswald";
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgb(5, 238, 106);
 }
 
 main {
