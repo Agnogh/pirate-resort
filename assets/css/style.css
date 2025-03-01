@@ -1,8 +1,17 @@
+
 /*general rule that will apply for all elements*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+/*general rule that will apply to entire body (unless specifically mentioned in child elements)*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: aquamarine;
 }
 
 header {
@@ -13,6 +22,7 @@ header {
 main {
     color:greenyellow;
     background-color: purple;
+    flex: 1 0 auto;
 }
 
 footer {
