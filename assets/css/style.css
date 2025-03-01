@@ -95,12 +95,17 @@ body {
     display: flex;
     flex-direction: column;
     color: aquamarine;
-    font-family: "Rouge Script";
+    font-family: "lato", "Oswald", "Lavishly Yours";
 }
 
 header {
     color:brown;
     background-color: olivedrab;
+
+}
+
+h1 {
+    font-family: "Rouge Script", "Oswald";
 }
 
 main {
