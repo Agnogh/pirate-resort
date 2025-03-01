@@ -1,0 +1,21 @@
+/*general rule that will apply for all elements*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    color:brown;
+    background-color: olivedrab;
+}
+
+main {
+    color:greenyellow;
+    background-color: purple;
+}
+
+footer {
+    color:teal;
+    background-color:darkorange;
+}
