@@ -126,6 +126,12 @@ h1 {
     color: rgb(5, 238, 106);
 }
 
+.header_list {
+    list-style-type: none;
+    color:rgb(182, 243, 13);
+    font-size: 110%;
+}
+
 main {
     color:greenyellow;
     background-color: purple;
