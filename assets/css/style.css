@@ -96,7 +96,8 @@ body {
     display: flex;
     flex-direction: column;
     color: aquamarine;
-    font-family: "lato", "Oswald", "Lavishly Yours";
+    background-color: aquamarine;
+    font-family:  "Lavishly Yours", "lato", "Oswald";
 }
 
 header {
@@ -108,7 +109,7 @@ header {
     width: 100%;
     box-shadow: 4px 4px 4px rgb(14, 53, 4);
     box-shadow: 4px 4px 4px rgb(0, 0, 0);
-    box-shadow: 4px 4px 4px rgb(0, 0, 0);
+
 /*
     display: flex;
     justify-content: space-between;
@@ -124,26 +125,27 @@ header a {
 
 h1 {
     font-family: "Lavishly Yours", "Rouge Script", "Oswald";
-    text-transform: uppercase;
+    text-transform: uppercase; 
     letter-spacing: 4px;
     color: rgb(5, 238, 106);
-
+    margin-bottom: 1em;
+    margin-top: 1em;
+    font-size: 130%; 
 
 }
 
 .header_list {
     list-style-type: none;
     color:rgb(182, 243, 13);
-    font-size: 110%;
+    font-size: 130%;
     letter-spacing: 6px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    justify-content: space-evenly;
     background-color: rgb(17, 129, 129);
     box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
-   
+
 }
 
 .header_list > li {
@@ -160,6 +162,9 @@ main {
     color:greenyellow;
     background-color: purple;
     flex: 1 0 auto;
+    margin-top: 120px;
+    position: relative;
+    height: 100%;
 }
 
 footer {
@@ -171,12 +176,24 @@ footer {
     .header_large_devices {
         display: none;
     }
+
 }
+
 
 
 @media screen and (min-width: 769px) {
     .header_small_devices {
         display: none;
     }
+
+}
+/*
+
+@media screen and (min-width: 993px) {
+
 }
 
+@media screen and (min-width: 1200px) {
+    
+}
+*/
