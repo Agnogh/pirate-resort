@@ -130,6 +130,7 @@ h1 {
     list-style-type: none;
     color:rgb(182, 243, 13);
     font-size: 110%;
+    letter-spacing: 6px;
 
 }
 
@@ -141,6 +142,15 @@ h1 {
     border-bottom: 1px solid orange;
 }
 
+nav {
+    position: absolute;
+    background-color: aqua;
+    width: 100%;
+    padding: 0 1rem;
+    left: 0;
+    box-shadow: 4px 4px 4px rgb(0, 0, 0);    
+    display: none;
+}
 
 main {
     color:greenyellow;
@@ -160,7 +170,7 @@ footer {
 }
 
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     .header_small_devices {
         display: none;
     }
