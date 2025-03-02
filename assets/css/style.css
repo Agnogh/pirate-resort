@@ -10,7 +10,8 @@
   
 .oswald-osw-agn {
     font-family: "Oswald", serif;
-    font-optical-sizing: auto; 
+    /* need to comment this out as I am getting "error mesage in css validator 
+    font-optical-sizing: auto; */
     font-weight: 200;
     font-style: normal;
   }
@@ -100,7 +101,7 @@ body {
 
 header {
     color:brown;
-    background-color: olivedrab;
+    background-color: rgb(30, 124, 183);
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -108,9 +109,11 @@ header {
     box-shadow: 4px 4px 4px rgb(14, 53, 4);
     box-shadow: 4px 4px 4px rgb(0, 0, 0);
     box-shadow: 4px 4px 4px rgb(0, 0, 0);
-    box-shadow: 2px 2px 2px rgb(37, 161, 6);
-    box-shadow: 4px 4px 4px rgb(53, 214, 12);
-
+/*
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+*/    
 }
 
 header a {
@@ -124,6 +127,8 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: rgb(5, 238, 106);
+
+
 }
 
 .header_list {
@@ -131,25 +136,24 @@ h1 {
     color:rgb(182, 243, 13);
     font-size: 110%;
     letter-spacing: 6px;
-
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    background-color: rgb(17, 129, 129);
+    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+   
 }
 
 .header_list > li {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    color: red
 }
 
 .item_in_the_list {
     border-bottom: 1px solid orange;
-}
-
-nav {
-    position: absolute;
-    background-color: aqua;
-    width: 100%;
-    padding: 0 1rem;
-    left: 0;
-    box-shadow: 4px 4px 4px rgb(0, 0, 0);    
-    display: none;
 }
 
 main {
@@ -175,3 +179,4 @@ footer {
         display: none;
     }
 }
+
