@@ -115,6 +115,8 @@ header {
     justify-content: space-between;
     align-items: baseline;
 */    
+
+
 }
 
 header a {
@@ -130,8 +132,8 @@ h1 {
     color: rgb(5, 238, 106);
     margin-bottom: 1em;
     margin-top: 1em;
-    font-size: 130%; 
-
+    font-size: 130%;
+    text-align: center;
 }
 
 .header_list {
@@ -144,18 +146,22 @@ h1 {
     align-items: center;
     justify-content: space-between;
     background-color: rgb(17, 129, 129);
-    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+
 
 }
 
 .header_list > li {
     margin-bottom: 0.5em;
     margin-top: 0.5em;
-    color: red
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    color: red;
+    font-size: 80%;
 }
 
 .item_in_the_list {
     border-bottom: 1px solid orange;
+    box-shadow: 4px 4px 4px rgb(14, 53, 4);
 }
 
 main {
@@ -177,13 +183,13 @@ footer {
     justify-content: space-evenly;
     padding: 20px 0;
     list-style-type: none;
-
 }
 
 #social_media i {
     color:pink;
     font-size: 150%;
     padding: 5%;
+    box-shadow: 4px 4px 8px yellow;
 }
 
 @media screen and (max-width: 768px) {
