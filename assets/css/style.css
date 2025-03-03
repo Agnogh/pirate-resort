@@ -168,8 +168,22 @@ main {
 }
 
 footer {
-    color:teal;
-    background-color:darkorange;
+    background-color:teal;
+}
+
+#social_media {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    list-style-type: none;
+
+}
+
+#social_media i {
+    color:pink;
+    font-size: 150%;
+    padding: 5%;
 }
 
 @media screen and (max-width: 768px) {
@@ -190,7 +204,9 @@ footer {
 /*
 
 @media screen and (min-width: 993px) {
-
+    .header_list a:hover {
+        border-bottom: 1px, solid black;
+    }
 }
 
 @media screen and (min-width: 1200px) {
