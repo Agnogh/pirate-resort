@@ -102,12 +102,13 @@ body {
 
 header {
     color:brown;
+    background: url(../images/Palm\ tree\ and\ blue\ sky) center center/cover;
     background-color: rgb(30, 124, 183);
-    padding: 0 1rem;
+    padding: 0 2rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 4px 4px 4px rgb(14, 53, 4);
+
     box-shadow: 4px 4px 4px rgb(0, 0, 0);
 
 /*
@@ -126,14 +127,15 @@ header a {
 }
 
 h1 {
-    font-family: "Lavishly Yours", "Rouge Script", "Oswald";
+    font-family: "Rouge Script", "Lavishly Yours", "Rouge Script", "Oswald";
     text-transform: uppercase; 
     letter-spacing: 4px;
-    color: rgb(5, 238, 106);
+    color: rgb(255, 6, 6);
     margin-bottom: 1em;
-    margin-top: 1em;
+    margin-top: 1.5em;
     font-size: 130%;
     text-align: center;
+
 }
 
 .header_list {
@@ -209,16 +211,17 @@ main {
 
 /*
 
-#main_background_picture_landing_page {
+#main_background_picture_gallery {
     height: 1000px;
     width: 100%;
-    background: url(../images/cooked_food_1.jpg) no-repeat center center/cover;
+    background: url(../images/cooked_food_6.jpg) no-repeat center center/cover;
 
 
 */
 
 footer {
     background-color:teal;
+    background: url(../images/wave-header-list-background.jpg) center center/cover;
 }
 
 #social_media {
