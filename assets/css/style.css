@@ -157,7 +157,7 @@ h2, h3 {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(17, 129, 129);
+    background-color: rgb(17, 129, 129, .5);
 
 
 }
@@ -167,7 +167,8 @@ h2, h3 {
     margin-top: 0.5em;
     margin-left: 0.5em;
     margin-right: 0.5em;
-    color: red;
+    color: gold;
+    font-style: bold;
     font-size: 80%;
 }
 
@@ -189,6 +190,7 @@ main {
     height: 1200px;
     width: 100%;
     background: url(../images/cooked_food_1.jpg) no-repeat center center/cover;
+    position: relative;
 }
 
 #main_background_picture_loyalty {
@@ -229,8 +231,64 @@ main {
 
 */
 
+
 #cover_text_upper_left {
-    background-color: aliceblue;
+    background-color: rgb(240, 248, 255, .6);
+    font-size: 130%;
+    position: absolute;
+    top: 25%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#cover_text_upper_right {
+    background-color: rgb(240, 248, 255, .6);
+    font-size: 130%;
+    position: absolute;
+    top: 35%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 0;
+}
+
+#cover_text_lower_left {
+    background-color: rgb(240, 248, 255, .6);
+    font-size: 130%;
+    position: absolute;
+    top: 100%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#cover_text_lower_right {
+    background-color: rgb(240, 248, 255, .6);
+    font-size: 130%;
+    position: absolute;
+    top: 120%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 0;
+}
+
+#cover_text_mid-centre {
+    background-color: rgb(240, 248, 255, .6);
+    font-size: 130%;
+    position: absolute;
+    top: 40%;
+    width: 50%;
+    min-height: 300px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 20%;
+    left: 20%;
 }
 
 footer {
@@ -253,6 +311,13 @@ footer {
     box-shadow: 4px 4px 8px yellow;
 }
 
+
+/*
+@media screen and (min-height: 250px) {
+
+}
+
+*/
 
 @media screen and (min-width: 250px) {
     h1 {
