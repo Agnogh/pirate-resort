@@ -233,7 +233,7 @@ main {
 
 #cover_text_upper_left {
     background-color: rgb(240, 248, 255, .6);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     top: 25%;
     width: 45%;
@@ -244,7 +244,7 @@ main {
 
 #cover_text_upper_right {
     background-color: rgb(240, 248, 255, .6);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     top: 35%;
     width: 45%;
@@ -256,7 +256,7 @@ main {
 
 #cover_text_lower_left {
     background-color: rgb(240, 248, 255, .6);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     top: 140%;
     width: 45%;
@@ -267,7 +267,7 @@ main {
 
 #cover_text_lower_right {
     background-color: rgb(240, 248, 255, .6);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     top: 160%;
     width: 45%;
@@ -279,7 +279,7 @@ main {
 
 #cover_text_mid-centre {
     background-color: rgb(240, 248, 255, .6);
-    font-size: 130%;
+    font-size: 100%;
     position: absolute;
     top: 70%;
     width: 50%;
@@ -314,7 +314,7 @@ footer {
 
 @media screen and (min-height: 400px) {
     #cover_text_upper_left {
-        font-size: 130%;
+        font-size: 100%;
         top: 25%;
         width: 45%;
         min-height: 100px;
@@ -323,7 +323,7 @@ footer {
     }
     
     #cover_text_upper_right {
-        font-size: 130%;
+        font-size: 100%;
         top: 35%;
         width: 45%;
         min-height: 120px;
@@ -333,8 +333,8 @@ footer {
     }
 
     #cover_text_lower_left {
-    font-size: 130%;
-    top: 130%;
+    font-size: 100%;
+    top: 120%;
     width: 45%;
     min-height: 100px;
     padding-top: 10px;
@@ -342,7 +342,7 @@ footer {
 }
 
     #cover_text_lower_right {
-    font-size: 130%;
+    font-size: 100%;
     top: 140%;
     width: 45%;
     min-height: 100px;
@@ -351,7 +351,7 @@ footer {
     right: 0;
 }
     #cover_text_mid-centre {
-    font-size: 130%;
+    font-size: 100%;
     top: 90%;
     width: 70%;
     min-height: 300px;
@@ -364,6 +364,106 @@ footer {
 
 
 @media screen and (min-height: 600px) {
+    #cover_text_upper_left {
+        font-size: 110%;
+        top: 35%;
+        width: 45%;
+        min-height: 100px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    
+    #cover_text_upper_right {
+        font-size: 110%;
+        top: 45%;
+        width: 45%;
+        min-height: 120px;
+        padding-top: 10px;
+        padding-right: 10px;
+        right: 0;
+    }
+
+    #cover_text_lower_left {
+    font-size: 110%;
+    top: 110%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+    #cover_text_lower_right {
+    font-size: 110%;
+    top: 110%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 0;
+}
+    #cover_text_mid-centre {
+    font-size: 110%;
+    top: 70%;
+    width: 70%;
+    min-height: 300px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 20%;
+    left: 20%;
+}
+}
+
+@media screen and (min-height: 800px) {
+    #cover_text_upper_left {
+        font-size: 130%;
+        top: 35%;
+        width: 45%;
+        min-height: 100px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    
+    #cover_text_upper_right {
+        font-size: 130%;
+        top: 45%;
+        width: 45%;
+        min-height: 120px;
+        padding-top: 10px;
+        padding-right: 10px;
+        right: 0;
+    }
+
+    #cover_text_lower_left {
+    font-size: 130%;
+    top: 110%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+    #cover_text_lower_right {
+    font-size: 130%;
+    top: 110%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 0;
+}
+    #cover_text_mid-centre {
+    font-size: 130%;
+    top: 70%;
+    width: 70%;
+    min-height: 300px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 20%;
+    left: 20%;
+}
+}
+
+@media screen and (min-height: 1000px) {
     #cover_text_upper_left {
         font-size: 130%;
         top: 25%;
@@ -385,7 +485,7 @@ footer {
 
     #cover_text_lower_left {
     font-size: 130%;
-    top: 110%;
+    top: 70%;
     width: 45%;
     min-height: 100px;
     padding-top: 10px;
@@ -394,7 +494,7 @@ footer {
 
     #cover_text_lower_right {
     font-size: 130%;
-    top: 110%;
+    top: 80%;
     width: 45%;
     min-height: 100px;
     padding-top: 10px;
@@ -403,7 +503,7 @@ footer {
 }
     #cover_text_mid-centre {
     font-size: 130%;
-    top: 70%;
+    top: 40%;
     width: 70%;
     min-height: 300px;
     padding-top: 10px;
@@ -413,7 +513,57 @@ footer {
 }
 }
 
+@media screen and (min-height: 1200px) {
+    #cover_text_upper_left {
+        font-size: 130%;
+        top: 25%;
+        width: 45%;
+        min-height: 100px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    
+    #cover_text_upper_right {
+        font-size: 130%;
+        top: 35%;
+        width: 45%;
+        min-height: 120px;
+        padding-top: 10px;
+        padding-right: 10px;
+        right: 0;
+    }
 
+    #cover_text_lower_left {
+    font-size: 130%;
+    top: 70%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+    #cover_text_lower_right {
+    font-size: 130%;
+    top: 80%;
+    width: 45%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 0;
+}
+    #cover_text_mid-centre {
+    font-size: 130%;
+    top: 40%;
+    width: 70%;
+    min-height: 300px;
+    padding-top: 10px;
+    padding-right: 10px;
+    right: 20%;
+    left: 20%;
+}
+}
+
+/*
 @media screen and (min-height: 913px) {
     #cover_text_lower_left {
     font-size: 130%;
@@ -434,7 +584,7 @@ footer {
     right: 0;
 }
 }
-
+*/
 
 @media screen and (min-width: 250px) {
     h1 {
