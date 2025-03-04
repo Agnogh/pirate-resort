@@ -100,15 +100,15 @@ body {
     font-family:  "Lavishly Yours", "lato", "Oswald";
 }
 
+
 header {
     color:brown;
     background: url(../images/Palm\ tree\ and\ blue\ sky) center center/cover;
     background-color: rgb(30, 124, 183);
-    padding: 0 2rem;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-
     box-shadow: 4px 4px 4px rgb(0, 0, 0);
 
 /*
@@ -135,7 +135,17 @@ h1 {
     margin-top: 1.5em;
     font-size: 130%;
     text-align: center;
+}
 
+h2, h3 {
+    font-family: "Lavishly Yours", "Rouge Script", "Oswald";
+    text-transform: uppercase; 
+    letter-spacing: 4px;
+    color: rgb(255, 6, 6);
+    margin-bottom: 0em;
+    margin-top: 0em;
+    font-size: 100%;
+    text-align: center;
 }
 
 .header_list {
@@ -168,7 +178,7 @@ h1 {
 
 main {
     color:greenyellow;
-    background-color: purple;
+    background-color: aquamarine;
     flex: 1 0 auto;
     margin-top: 120px;
  /*   position: relative; */
@@ -218,6 +228,10 @@ main {
 
 
 */
+
+#cover_text_upper_left {
+    background-color: aliceblue;
+}
 
 footer {
     background-color:teal;
