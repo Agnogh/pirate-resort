@@ -305,8 +305,8 @@ input:focus {
 }
 
 #photos_for_gallery_page{
-    line-height: 0.5;
-    background-color: gold;
+    line-height: 0.6;
+    background-color: rgb(127, 255, 212, 0.6);
 }
 
 footer {
@@ -326,10 +326,22 @@ footer {
     color:pink;
     font-size: 150%;
     padding: 30%;
-    box-shadow: 4px 4px 8px yellow;
+    box-shadow: 4px 4px 8px rgb(165, 227, 6);
 }
 
+@media screen and (min-width: 576px) {
+    #photos_for_gallery_page {
+        column-count: 2;
+        column-gap: 0;
+    }
+    }
 
+    @media screen and (min-width: 992px) {
+        #photos_for_gallery_page {
+            column-count: 3;
+            column-gap: 0;
+        }
+        }
 
 @media screen and (min-height: 400px) {
     #cover_text_upper_left {
