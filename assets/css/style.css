@@ -1,5 +1,28 @@
 /*importing fonts from Google*/
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lavishly+Yours&family=Oswald:wght@200..700&family=Rouge+Script&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lavishly+Yours&family=Oswald:wght@200..700&family=Rouge+Script&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lavishly+Yours&family=Oswald:wght@200..700&family=Rouge+Script&family=Tangerine:wght@400;700&display=swap');
+
+
+.dancing-script-agn {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.tangerine-regular {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tangerine-bold {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
 
 .rouge-script-regular {
     font-family: "Rouge Script", serif;
@@ -137,9 +160,9 @@ h1 {
 }
 
 h2, h3 {
-    font-family: "Lavishly Yours", "Rouge Script", "Oswald";
-    text-transform: uppercase; 
+    font-family: "Dancing Script", "Tangerine", "Lavishly Yours", "Rouge Script", "Oswald", "lato";
     letter-spacing: 4px;
+    text-transform: uppercase;  
     color: honeydew;
     margin-bottom: 0em;
     margin-top: 0em;
@@ -293,11 +316,19 @@ main {
 }
 
 #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
-    font-size: 60%;
+    font-size: 90%;
 }
 
 input:focus {
     background-color: aqua;
+}
+
+input {
+    background-color: pink;
+}
+
+#dropdown_menu {
+    background-color: pink;
 }
 
 #photos_for_gallery_page img {
