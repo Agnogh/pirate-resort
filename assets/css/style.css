@@ -300,6 +300,14 @@ input:focus {
     background-color: aqua;
 }
 
+#photos_for_gallery_page img {
+    width: 100%;
+}
+
+#photos_for_gallery_page{
+    line-height: 0.5;
+    background-color: gold;
+}
 
 footer {
     background-color:teal;
