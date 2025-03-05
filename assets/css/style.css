@@ -246,7 +246,7 @@ main {
     background-color: rgba(11, 194, 38, 0.6);
 
     position: absolute;
-    top: 35%;
+    top: 25%;
     width: 75%;
 
     padding-top: 10px;
@@ -316,7 +316,7 @@ footer {
 
 @media screen and (min-height: 400px) {
     #cover_text_upper_left {
-        top: 20%;
+        top: 30%;
         width: 45%;
         padding-top: 10px;
         padding-left: 10px;
@@ -579,6 +579,9 @@ footer {
     footer {
         padding: 3%;
     }
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+        font-size: 80%;
+    }
 }
 
 
@@ -598,6 +601,9 @@ footer {
     footer {
         padding: 3%;
     }
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+        font-size: 100%;
+    }
 }
 
 
@@ -616,6 +622,9 @@ footer {
     }
     footer {
         padding: 3%;
+    }
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+        font-size: 120%;
     }
 }
 
