@@ -140,7 +140,7 @@ h2, h3 {
     font-family: "Lavishly Yours", "Rouge Script", "Oswald";
     text-transform: uppercase; 
     letter-spacing: 4px;
-    color: rgb(255, 6, 6);
+    color: honeydew;
     margin-bottom: 0em;
     margin-top: 0em;
     font-size: 100%;
@@ -177,7 +177,6 @@ h2, h3 {
 }
 
 main {
-    color:greenyellow;
     background-color: aquamarine;
     flex: 1 0 auto;
     margin-top: 120px;
@@ -232,57 +231,62 @@ main {
 
 
 #cover_text_upper_left {
-    background-color: rgba(11, 194, 38, 0.6);
+    background-color: rgb(0, 255, 255, 0.6);
 
     position: absolute;
     top: 25%;
     width: 75%;
 
     padding-top: 10px;
+    padding-bottom: 5px;
     padding-left: 10px;
 }
 
 #cover_text_upper_right {
-    background-color: rgba(11, 194, 38, 0.6);
+    background-color: rgb(0, 255, 255, 0.6);
 
     position: absolute;
     top: 25%;
     width: 75%;
 
     padding-top: 10px;
+    padding-bottom: 5px;
     padding-right: 10px;
     right: 0;
 }
 
 #cover_text_lower_left {
-    background-color: rgba(11, 194, 38, 0.6);
+    background-color: rgb(0, 255, 255, 0.6);
 
     position: absolute;
     top: 140%;
     width: 75%;
 
     padding-top: 10px;
+    padding-bottom: 5px;
     padding-left: 10px;
 }
 
 #cover_text_lower_right {
-    background-color: rgba(11, 194, 38, 0.6);
+    background-color: rgb(0, 255, 255, 0.6);
 
     position: absolute;
     top: 110%;
     width: 75%;
 
     padding-top: 10px;
+    padding-bottom: 5px;
     padding-right: 10px;
     right: 0;
 }
 
 #cover_text_mid-centre {
-    background-color: rgba(11, 194, 38, 0.6);
+    background-color: rgb(0, 255, 255, 0.6);
     position: absolute;
     top: 70%;
     width: 80%;
     padding-top: 10px;
+    padding-bottom: 5px;
     padding-right: 10px;
     right: 15%;
     left: 15%;
@@ -291,6 +295,11 @@ main {
 #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
     font-size: 60%;
 }
+
+input:focus {
+    background-color: aqua;
+}
+
 
 footer {
     background-color:teal;
@@ -475,7 +484,7 @@ footer {
         right: 0;
 }
     #cover_text_mid-centre {
-        top: 40%;
+        top: 50%;
         width: 80%;
         padding-top: 10px;
         padding-right: 10px;
@@ -504,7 +513,7 @@ footer {
     }
 
     #cover_text_lower_left {
-        top: 60%;
+        top: 65%;
         width: 45%;
         padding-top: 10px;
         padding-left: 10px;
@@ -518,7 +527,7 @@ footer {
         right: 0;
 }
     #cover_text_mid-centre {
-        top: 40%;
+        top: 50%;
         width: 70%;
         padding-top: 10px;
         padding-right: 10px;
