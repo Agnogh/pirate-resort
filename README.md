@@ -107,9 +107,11 @@ I tried to create more "Adventure/Pirate/Caribbean/Ocean atmosphere from the lat
 ##Structure
 To match the style of casual I decided to go with a straightforward and simpler approach. 
 I decided to go with 6 (six) separate pages divided into
+![Navigation bar](https://github.com/user-attachments/assets/8310347f-d1ed-4b73-8954-14d893fdf825)
+
 1. Landing page
 2. Food menu (first from the top left position)
-3. Contact (second after the food menu as it is most important after checking the availability of items on the menu)
+3. Contact (second after the food menu, as it is most important after checking the availability of items on the menu)
 4. Loyalty and Reward centre (as I believe this would be the next step in attracting the customers - discounts/vouchers)
 5. Gallery where user can see pictures of the location and food prepared
 6. About us is placed at the end of the row as it needs to be presented to potential customers, but it is not something everyone will look at 
@@ -117,29 +119,65 @@ I decided to go with 6 (six) separate pages divided into
 Order is placed in a way that each item will *always* be positioned at its place (food on 1st, contact on 2nd, Loyalty on 3rdm Gallery on 4th and About on 5th place), while the "landing page" will by default be in the title or take up the position in the header when the selected item moves to the title.
 
 I went with an approach that each section has a separate webpage, but the user can always return to the main page or any other 5 pages available from the top (all 6 pages have a consistent look/appearance).
+![Order 1 nav bar](https://github.com/user-attachments/assets/4aa2c581-4a57-45b4-875d-b4d5c53e6ab2)
+![Order 2 nav bar](https://github.com/user-attachments/assets/f2dd8622-d55a-44a2-9a0d-c24023486615)
+![Order 3 nav bar](https://github.com/user-attachments/assets/cb030125-dbf5-4b90-b24e-949a87087501)
+![Order 4 nav bar](https://github.com/user-attachments/assets/de655eef-0fe4-4bc2-838a-89eeaf499875)
+![Order 5 nav bar](https://github.com/user-attachments/assets/688540c6-9713-4375-b1e3-7c44f4918ddf)
 
-Making it complex with lots of dropdown menus (despite consuming less space) seems like a setback and additional click.
+
+
+Making it complex with lots of dropdown menus (despite consuming less space) seems like a setback and an additional click.
 
 I avoided truncations by replacing full title names (using characters) with symbols and emojis on smaller devices. On larger devices, I set that the full name is displayed.
 
 
+Small devices nav bar
+![Nav bar - small](https://github.com/user-attachments/assets/066505e6-3541-4b7e-9ffe-90ae530c6c9d)
+
+Large dvices nav bar
+![Nav bar - big](https://github.com/user-attachments/assets/4ab8951f-e764-4ced-8049-cf3e002b2dce)
+
 
 # Tab names
-#***ADD CONTEXT HERE***
+![Tab names](https://github.com/user-attachments/assets/c8b365a6-d764-40bb-94b8-1e67ac1acb79)
+All tabs have names and symbols
 
 
 #Home page / Main Page and header
 #***ADD CONTEXT HERE***
 1. Landing page
+![Landing page menu](https://github.com/user-attachments/assets/01f82f9e-537b-4073-828b-303705231470)
+
 2. Food menu 
+![Food_Menu](https://github.com/user-attachments/assets/385a1ba0-020b-4d95-9a71-1d93f4a21021)
+
 3. Contact 
+![Contact menu](https://github.com/user-attachments/assets/af3cddff-4711-42bc-a3d0-160362d85301)
+
 4. Loyalty and Reward centre
+![Loyalty page](https://github.com/user-attachments/assets/1baf2652-0ec3-4e3c-814c-0f4b571cda9e)
+
 5. Gallery
+![Gallery Menu](https://github.com/user-attachments/assets/7153e1fb-af3c-4754-83f1-4c6b359fe94f)
+
 6. About us 
+![About menu](https://github.com/user-attachments/assets/fb6ca2de-79b7-4317-8efb-29102c72ea72)
+
+For the Gallery page, I set both colour and background image in case images do not load, background colour can give contrast to the context making it stand out.
+![water_background_for_gallery](https://github.com/user-attachments/assets/f6958bcd-c712-4f22-8a5d-692f44e3516d)
+
+For the nav bar I did something similar where I wanted to represent more sky
+![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
+
+The footer was something related to water (so opposite of the nav bar and sky)
+![Footer](https://github.com/user-attachments/assets/bf482c12-a1e6-4660-86c7-a82bf085f86c)
+
 
 # Footer
-#***ADD CONTEXT HERE***
-
+![Footer](https://github.com/user-attachments/assets/e91709ae-b2ec-43d5-a216-c24818e5fce4)
+Shadows added for stilistic reasons
+More than ususal number of icons placed to make sure it will wrap nicely
 
 #Technology and tools used
 ##Languages
