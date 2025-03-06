@@ -207,6 +207,26 @@ main {
     height: 100%;
 }
 
+#main_background_picture_landing_page > h3 {
+    display: none;
+}
+
+#main_background_picture_about > h3 {
+    display: none;
+}
+
+#main_background_picture_contact > h3 {
+    display: none;
+}
+
+#gallery_page > h3 {
+    display: none;
+}
+
+#main_background_picture_loyalty > h3 {
+    display: none;
+}
+
 #main_background_picture_landing_page {
     height: 1250px;
     width: 100%;
