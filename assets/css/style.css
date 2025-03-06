@@ -267,6 +267,8 @@ main {
     padding-top: 10px;
     padding-bottom: 5px;
     padding-left: 10px;
+    box-shadow: 4px 4px 8px rgb(165, 227, 6);
+
 }
 
 #cover_text_upper_right {
@@ -280,6 +282,8 @@ main {
     padding-bottom: 5px;
     padding-right: 10px;
     right: 0;
+    box-shadow: 4px 4px 8px rgb(165, 227, 6);
+
 }
 
 #cover_text_lower_left {
@@ -292,6 +296,8 @@ main {
     padding-top: 10px;
     padding-bottom: 5px;
     padding-left: 10px;
+    box-shadow: 4px 4px 8px rgb(165, 227, 6);
+
 }
 
 #cover_text_lower_right {
@@ -305,6 +311,8 @@ main {
     padding-bottom: 5px;
     padding-right: 10px;
     right: 0;
+    box-shadow: 4px 4px 8px rgb(165, 227, 6);
+
 }
 
 #cover_text_mid-centre {
@@ -317,6 +325,8 @@ main {
     padding-right: 10px;
     right: 15%;
     left: 15%;
+    box-shadow: 4px 4px 8px rgb(165, 227, 6);
+
 }
 
 #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
