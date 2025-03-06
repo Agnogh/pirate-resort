@@ -336,15 +336,13 @@ input {
 
 #photos_for_gallery_page {
     line-height: 0.6;
-    background: url(../images/water_background_for_gallery.jpg) center center/cover;
+    background: url(../images/water_background_for_gallery.jpg) center center/cover; 
     background-color: rgba(41, 49, 41, 0.6);
-
 }
 
 footer {
     background-color:teal;
     background: url(../images/wave-header-list-background.jpg) center center/cover;
-
 }
 
 #social_media {
