@@ -200,7 +200,7 @@ h2, h3 {
 }
 
 main {
-    background-color: aquamarine;
+    background: url(assets\images\water_background_for_gallery.jpg) repeat center center/cover;
     flex: 1 0 auto;
     margin-top: 120px;
  /*   position: relative; */
@@ -220,21 +220,17 @@ main {
     background: url(../images/cooked_food_2.jpg) no-repeat center center/cover;
 }
 
-
 #main_background_picture_menu {
     height: 1250px;
     width: 100%;
     background: url(../images/cooked_food_3.jpg) no-repeat center center/cover;
 }
 
-
 #main_background_picture_contact {
     height: 1250px;
     width: 100%;
     background: url(../images/cooked_food_4.jpg) no-repeat center center/cover;
 }
-
-
 
 #main_background_picture_about {
     height: 1250px;
@@ -245,17 +241,6 @@ main {
 .map_link {
     color: pink;
 }
-
-/*
-
-#main_background_picture_gallery {
-    height: 1000px;
-    width: 100%;
-    background: url(../images/cooked_food_6.jpg) no-repeat center center/cover;
-
-
-*/
-
 
 #cover_text_upper_left {
     background-color: rgb(0, 255, 255, 0.6);
@@ -349,14 +334,17 @@ input {
     width: 100%;
 }
 
-#photos_for_gallery_page{
+#photos_for_gallery_page {
     line-height: 0.6;
-    background-color: rgb(127, 255, 212, 0.6);
+    background: url(../images/water_background_for_gallery.jpg) center center/cover;
+    background-color: rgba(41, 49, 41, 0.6);
+
 }
 
 footer {
     background-color:teal;
     background: url(../images/wave-header-list-background.jpg) center center/cover;
+
 }
 
 #social_media {
