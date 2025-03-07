@@ -220,21 +220,28 @@ The footer was something related to water (so opposite of the nav bar and sky)
 
 Contains 5 (five) pages, while the selected page goes "on top" and "landing page" takes up the position of "landing page" so that the order remains the same all the time 
 0. Landing page
+*Starting page* gives a basic intro and serves as a hub for all other pages. Focus is more on visual effects than on text to attract potential customers using graphics.
+The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty
 ![Landing page menu](https://github.com/user-attachments/assets/01f82f9e-537b-4073-828b-303705231470)
 
-1. Food menu 
+1. Food menu
+*First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, alergens or similar. Clear and simple but enough to spark the imagination. 
 ![Food_Menu](https://github.com/user-attachments/assets/385a1ba0-020b-4d95-9a71-1d93f4a21021)
 
-2. Contact 
+3. Contact
+*2nd page in line* is the one user will most likely check next after checking the food menu. Location, how to get there, where can user find us, how to contact us. Simple UI, with little but all-important information without any other elements that are not directly related to how to reach out to us
 ![Contact menu](https://github.com/user-attachments/assets/af3cddff-4711-42bc-a3d0-160362d85301)
 
-3. Loyalty and Reward centre
+5. Loyalty and Reward centre
+*middle page* and also the 3rd form the left and 3rd that user will most likely select contains basic things to get sign up, fill the questioner and even request discount vauchers. Again, it is simple and easy to use, with not too much or too little interaction.
 ![Loyalty page](https://github.com/user-attachments/assets/1baf2652-0ec3-4e3c-814c-0f4b571cda9e)
 
-4. Gallery
+7. Gallery
+*2nd before last* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
 ![Gallery Menu](https://github.com/user-attachments/assets/7153e1fb-af3c-4754-83f1-4c6b359fe94f)
 
-5. About us 
+9. About us
+*Last in the list* and most likely the last one that will be selected, but still needed to get the visitors of the website and potentially customers familiar with who are we, how we get there, why, when and under what circumstances. It is a story, but the text is not taking away users' time. It just tells it in a few lines
 ![About menu](https://github.com/user-attachments/assets/fb6ca2de-79b7-4317-8efb-29102c72ea72)
 
 
@@ -344,9 +351,9 @@ The ones that were fixed after were:
 - Sign-in process gets user alert messages for name and email
 - Adding "number" type in number field (it was "email" before)
 - Duplicate items in the food menu (2 times "sea beast burgers")
-- addon to Read me
+- Addon to Read me
 - Various minor enhancements
 
 
 ## Thanks
-Thanks to my superiors and peers at work, where I felt unappreciated and overlooked, I was highly motivated to change my job and career and, consequently, get this project completed despite having 10-hour work day.
+Thanks to my superiors and peers at work, where I felt unappreciated, overlooked and unsupported, I was highly motivated to change my job and career and, consequently, get this project completed despite having a 10-hour work day.
