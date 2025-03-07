@@ -15,7 +15,7 @@
 - Taste something different
 - Different environment
 - Different theme
-- More casual, but still high quality service
+- More casual, but still high-quality service
 
 ##Site owner goal
 - Provide a unique experience
@@ -59,7 +59,7 @@
 ###Owner of the restaurant
 - I want more subscribers so I can share updates regularly and increase potential clients as a targeted group is smaller than usual
 - I want clients to have our contact to have them visit again
-- I want potential customers to have all info in a very simple and straightforward way
+- I want potential customers to have all info in an effortless and straightforward way
 - I want the user to find their way around easily and quickly
 - I want to show a few pictures for potential customers so they can get an idea of what they can expect
 
@@ -105,7 +105,7 @@ I tried to create more "Adventure/Pirate/Caribbean/Ocean atmosphere from the lat
 
 
 ##Structure
-To match the style of casual I decided to go with a straightforward and simpler approach. 
+To match the casual style, I decided to go with a straightforward and simple approach. 
 I decided to go with 6 (six) separate pages divided into
 ![Small devices](https://github.com/user-attachments/assets/154e9b46-1fcd-432e-9274-fbdeb9f1cdb5)
 ![large device](https://github.com/user-attachments/assets/ef0c6da9-fc33-4ee2-bb7d-eb95c7e9bab2)
@@ -138,7 +138,7 @@ I avoided truncations by replacing full title names (using characters) with symb
 Small devices nav bar
 ![Nav bar - small](https://github.com/user-attachments/assets/066505e6-3541-4b7e-9ffe-90ae530c6c9d)
 
-Large dvices nav bar
+Large devices nav bar
 ![Nav bar - big](https://github.com/user-attachments/assets/4ab8951f-e764-4ced-8049-cf3e002b2dce)
 
 
@@ -166,21 +166,25 @@ All tabs have names and symbols
 6. About us 
 ![About menu](https://github.com/user-attachments/assets/fb6ca2de-79b7-4317-8efb-29102c72ea72)
 
-For the Gallery page, I set both colour and background image in case images do not load, background colour can give contrast to the context making it stand out.
-![water_background_for_gallery](https://github.com/user-attachments/assets/f6958bcd-c712-4f22-8a5d-692f44e3516d)
-
-For the nav bar, I did something similar where I wanted to represent more sky
-![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
-
-The footer was something related to water (so opposite of the nav bar and sky)
-![Footer](https://github.com/user-attachments/assets/bf482c12-a1e6-4660-86c7-a82bf085f86c)
-
 
 # Footer
 ![Footer](https://github.com/user-attachments/assets/e91709ae-b2ec-43d5-a216-c24818e5fce4)
-![Water_waves_background](https://github.com/user-attachments/assets/616398ab-445a-40f4-ac98-f8de6bf01b7c)
+
+
 Shadows were added for stylistic reasons
 More than the usual number of icons placed to make sure it will wrap nicely
+![Footer](https://github.com/user-attachments/assets/3e4e8b08-02b0-4ad2-a291-30f5063f8c4e)
+
+
+# Background images
+For the nav bar, I did something similar where I wanted to represent more sky
+![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
+
+For the Gallery page, I set both colour and background image in case images do not load, background colour can give contrast to the context making it stand out.
+![water_background_for_gallery](https://github.com/user-attachments/assets/f6958bcd-c712-4f22-8a5d-692f44e3516d)
+
+The footer was something related to water (so opposite of the nav bar and sky)
+![wave-footer-background](https://github.com/user-attachments/assets/f7aca0f0-b079-406f-9ae0-01f567c09768)
 
 
 #Technology and tools used
@@ -203,6 +207,13 @@ More than the usual number of icons placed to make sure it will wrap nicely
 - Google Fonts Pairing
 - Grammarly
 - Pen and paper (as some things need to be placed quickly before ideas go away)
+
+
+## Additional help
+- Training materials
+- YouTube
+- *I intentionally didn't want to reach out to tutors as I wanted to make this work on my own, using knowledge and materials I have*
+
 
 # Feature
 ## Navigation bar
@@ -249,17 +260,93 @@ The difference is between small and large devices to accommodate spacing and avo
 ![No errors found](https://github.com/user-attachments/assets/ca3d96b2-f17f-4cef-81e7-456c316dc150)
 
 
+## Accessibility
+Accessibility is at a high of 98%
+![Accessibility](https://github.com/user-attachments/assets/2009077f-bebb-4996-bad5-592f598e15dc)
+
+Other values worth mentioning are 96% of Best practices
+Performance is at 88& due to using background images and background colours, if images fail to load.
+Additionally, having lots of media queries that I sorted into 5-6 categories for height and 3-4 for width to have better responsivnes contribute to this (on top of 7-year-old computer and opened over 30 tabs in Chrome)
+![Performance](https://github.com/user-attachments/assets/c10fa2c3-b2aa-44c1-81ff-543028a740e6)
+
+
+## Responsivnes
+On top of using pages for responsive, I checked over 20 virtual devices and responsive behaviour just to be sure various device size are fitted
+![Responsivnes](https://github.com/user-attachments/assets/f3a15439-4353-4c23-a08b-3c85de47220d)
+
+*Device list are:*
+- *Smaller devices*
+iPhone XR, iPhone SE, iPhone 12, iPhone 14 Pro, Galaxy S9, Galaxy S8, Galaxy S5, Salaxy S20, Galaxy A51/71, Pixel 7
+
+- *Medimu devices (tablets)*
+iPad, iPad Pro, iPad Air, iPad Mini, Surface Pro 7, Surface Duo,
+
+- *Medimu size devices (laptops)*
+Nest Hub, Nest Hub Max
+
+- *Large siye*
+Dekptop computers
+
+
 ## Devices used
 - Huawei P smart
-- iPad 16
+- Samsung A15
+- iPad 15
+- iPad Pro
 - iPhone 16
+- MacBook Pro
+- MacBook Air
+- Nitro 5, Ryzan 7
+
 
 ## Browsers used
 ### Chrome
 ### Safari
 
 
+## Links
+*Font and icons related*
+- https://www.fontpair.co/all
+- typ.io/lists
+- https://fontjoy.com/
+- https://fonts.google.com/selection/embed
+- https://fontawesome.com/kits
+- https://icons8.com/icons
+
+*Validation related*
+- https://validator.w3.org/
+- https://jigsaw.w3.org/css-validator/
+- https://developer.chrome.com/docs/lighthouse/overview/
+- https://wave.webaim.org/
+- https://ui.dev/amiresponsive?url=https://
+
+*Training and tips & tricks*
+- https://code-institute-students.github.io/flexbox-interactive-demo/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://docs.github.com/en/get-started/start-your-journey/hello-world
+- https://flexboxfroggy.com/#hr
+
+*Various*
+- https://www.diffchecker.com/
+- YouTube
+- https://github.com/
+
+
 # Deployment
+*https://agnogh.github.io/pirate-resort/*
 
 
+## Bugs
+There were several bugs along the way, but most were fixed before deployment when applying validators or responsive design
+The ones that were fixed after were:
+- Few typos
+- The sign-in process has mandatory fields and optional fields
+- Sign-in process gets user alert messages for name and email
+- Adding "number" type in number field (it was "email" before)
+- Duplicate items in the food menu (2 times "sea beast burgers")
+- addon to Read me
+- Various minor enhancements
 
+
+## Thanks
+Thanks to my superiors and peers at work, where I felt unappreciated and overlooked, I was highly motivated to change my job and career and, consequently, get this project completed despite having 10-hour work day.
