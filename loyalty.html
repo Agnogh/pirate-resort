@@ -77,23 +77,36 @@
         </div>
         <div id="cover_text_mid-centre">
             <h3>
-                <label for="name_filed">Name</label>
-                <input id="name_filed" type="text" name="full_name" placeholder="Your name" required>
-                <br>
-                <label for="email_field">Email</label>
-                <input id="email_field" type="email" name="email" placeholder="Your email" required>       
-                <br>
-                <input type="checkbox" id="wanting_cupons" name="wanting_cupons" required>
+                <form action="subscription.html" method="get">
+                    <div>
+                    <label for="name_filed">Name</label>
+                    <input type="text" id="name_filed" name="name_filed" placeholder="Your name" required>
+                    </div>
+
+                    <div>
+                    <label for="emial_filed">Email</label>
+                    <input type="email" id="emial_filed" name="emial_filed" placeholder="Your email" required>
+                    </div>
+
+                    <div>
+                        <label for="phone_filed">Phone</label>
+                        <input type="email" id="phone_filed" name="phone_filed" placeholder="Not mandatory">
+                    </div>
+
+                    <div>
+                        <input type="submit" value="Subscribe">
+                    </div>
+                    
+
                 <label for="wanting_cupons">Subscribe me</label>
                 <br>
-                    <form action="subscription.html" method="get">
-                        <input type="submit" value="Subscribe me">
-                    </form>
+                
+                </form>
             </h3>
         </div>
     </section>
     </main>
-    
+
     <footer>
         <ul id="social_media">
             <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" 
