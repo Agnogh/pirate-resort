@@ -353,6 +353,7 @@ The ones that were fixed after were:
 - Duplicate items in the food menu (2 times "sea beast burgers")
 - Addon to Read me
 - Various minor enhancements
+- Changing from style=number (where there are increase and decrease numberical value) to style=tel (where we can add letters on top of numbers, but we do not have buttons for increase or decrease numerical value)
 
 
 ## Thanks
