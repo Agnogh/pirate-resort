@@ -259,6 +259,13 @@ main {
     background: url(../images/NEW\ Pirate\ Resort\ 7.jpg) no-repeat center center/cover;
 }
 
+#main_background_picture_get_cupons {
+    height: 1250px;
+    width: 100%;
+    background: url(../images/New\ Coins\ 2.jpg) no-repeat center center/cover;
+}
+
+
 .map_link {
     color: pink;
 }
