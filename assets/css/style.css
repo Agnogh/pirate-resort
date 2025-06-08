@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lavishly+Yours&family=Oswald:wght@200..700&family=Rouge+Script&family=Tangerine:wght@400;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 .dancing-script-agn {
     font-family: "Dancing Script", cursive;
@@ -103,6 +105,14 @@
     font-style: normal;
   }
   
+  .sour-gummy-special {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 
 /*general rule that will apply for all elements*/
 * {
@@ -151,7 +161,7 @@ h1 {
 }
 
 h2, h3 {
-    font-family: "Dancing Script", "Tangerine", "Lavishly Yours", "Rouge Script", "Oswald", "lato";
+    font-family: "Sour Gummy", "Dancing Script", "Tangerine", "Lavishly Yours", "Rouge Script", "Oswald", "lato";
     letter-spacing: 4px;
     text-transform: uppercase;  
     color: honeydew;
@@ -171,8 +181,8 @@ h2, h3 {
     align-items: center;
     justify-content: space-between;
     background-color: rgb(17, 129, 129, .5);
-    font-family: "Dancing Script", "Tangerine", "lato", "Oswald", "Lavishly Yours", "Roboto";
-    font: bold;
+    font-family: "Sour Gummy", "Dancing Script", "Tangerine", "lato", "Oswald", "Lavishly Yours", "Roboto";
+
 }
 
 .header_list > li {
@@ -183,6 +193,7 @@ h2, h3 {
     color: gold;
     font-style: oblique;
     font-size: 80%;
+    font: bold;
 }
 
 .item_in_the_list {
