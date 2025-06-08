@@ -228,6 +228,8 @@ main {
     display: none;
 }
 
+/* Background pictures for all 5 main sites + 2 side websites ('Get Cupons' & 'subscription' launched from 'Loyalty') */
+
 #main_background_picture_landing_page {
     height: 1250px;
     width: 100%;
@@ -265,6 +267,11 @@ main {
     background: url(../images/New\ Coins\ 2.jpg) no-repeat center center/cover;
 }
 
+#main_background_picture_subscription {
+    height: 1250px;
+    width: 100%;
+    background: url(../images/New\ Coins\ 2.jpg) no-repeat center center/cover;
+}
 
 .map_link {
     color: pink;
