@@ -685,9 +685,9 @@ footer {
     footer {
         padding: 3%;
     }
-    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+/*    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 100%;
-    }
+    } */
 }
 
 
@@ -707,9 +707,9 @@ footer {
     footer {
         padding: 3%;
     }
-    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+/*    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 120%;
-    }
+    } */
 }
 
 @media screen and (max-width: 767px) {
