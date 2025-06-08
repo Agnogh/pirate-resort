@@ -3,7 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
 
-
+/* Start of the Fonts listed */
 .dancing-script-agn {
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
@@ -114,14 +114,17 @@
     "wdth" 100;
 }
 
-/*general rule that will apply for all elements*/
+/* End of the Fonts listed */
+
+
+/* General rule that will apply for all elements */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/*general rule that will apply to entire body (unless specifically mentioned in child elements)*/
+/* General rule that will apply to entire body (unless specifically mentioned in child elements) */
 body {
     min-height: 100vh;
     display: flex;
@@ -131,6 +134,7 @@ body {
 }
 
 
+/* Header rules */
 header {
     color:brown;
     background: url(../images/Palm\ tree\ and\ blue\ sky) center center/cover;
@@ -140,8 +144,8 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 4px 4px 4px rgb(0, 0, 0); 
-
 }
+
 
 header a {
     text-decoration: none;
@@ -228,8 +232,8 @@ main {
     display: none;
 }
 
-/* Background pictures for all 5 main sites + 2 side websites ('Get Cupons' & 'subscription' launched from 'Loyalty') */
 
+/* Background pictures for all 5 main sites + 2 side websites ('Get Cupons' & 'subscription' launched from 'Loyalty') */
 #main_background_picture_landing_page {
     height: 1250px;
     width: 100%;
@@ -277,6 +281,7 @@ main {
     color: pink;
 }
 
+/* Rules for the textboxes */
 #cover_text_upper_left {
     background-color: rgb(0, 255, 255, 0.6);
 
@@ -349,6 +354,7 @@ main {
 
 }
 
+/* Rule for text on the text holders */
 #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
     font-size: 90%;
 }
