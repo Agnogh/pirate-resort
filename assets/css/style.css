@@ -171,8 +171,8 @@ h2, h3 {
     align-items: center;
     justify-content: space-between;
     background-color: rgb(17, 129, 129, .5);
-
-
+    font-family: "Dancing Script", "Tangerine", "lato", "Oswald", "Lavishly Yours", "Roboto";
+    font: bold;
 }
 
 .header_list > li {
