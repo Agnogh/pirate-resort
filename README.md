@@ -8,9 +8,9 @@
 ##*Table of content*
 [User expectation](#user-expectation)
 
-#1. Project Goal
+##**1. Project Goal**
 
-##User goals
+###**User goals**
 - Finding a place distant from all civilization and pollution (calm and filled with tranquillity)
 - Trying out the food not by any standards or specific recipes
 - Taste something different
@@ -18,17 +18,18 @@
 - Different theme
 - More casual, but still high-quality service
 
-##Site owner goal
+###**Site owner goal**
 - Provide a unique experience
 - Attract specific types of people (passengers on a long voyage, adventures and people who appreciate finer things)
 - Attract people who want to experience peace, calm, good food and rest from a long voyage
 - Promote business but in a way that remains high quality and less grow
 - Provide basic but unique food choices found nowhere else
 - Provide basic information on how the restaurant came to be and why it was established
+- Share some pictures for a user to get a glimpse of the experience that awaits the user
 
 
-#2. User Exp
-##Targeted group
+###**User Exp**
+####**Targeted group**
 - People who are travellers on a specific route
 - People who appreciate good, unique food, atmosphere and environment
 - Adventures 
@@ -36,14 +37,16 @@
 - Anyone who wants to escape busy street (or law)
 - People who like less formal, more casual and relaxed atmospheres, while still receiving perfect service
 
-#User expectation
+###**User expectation**
 - Simple directions (it is the only island 100 miles away)
 - Limited food choices but with excellent quality and unique ingredients
 - Warm and nice weather, palm trees, chill atmosphere, relaxed mood, delicious food
 - Affordable prices
 - Trying something that cannot be found normally
 
-###1st time users
+##**User Stories**
+
+###**1st time users**
 - I want to know the location
 - I want to know the availability of the food menu
 - I want to know the prices
@@ -51,22 +54,24 @@
 - I want to taste food that is nowhere to be found 
 - I want to have breakfast, lunch or dinner in a place that barely has any civilization
 
-###Returning users
+###**Returning users**
 - I want to continue getting discounts
 - I want to try other dishes
 - I want to experience what I had 1st time around
 - I want contact details so I can reserve a spot
 
-###Owner of the restaurant
+###**Owner of the restaurant**
 - I want more subscribers so I can share updates regularly and increase potential clients as a targeted group is smaller than usual
 - I want clients to have our contact to have them visit again
 - I want potential customers to have all info in an effortless and straightforward way
 - I want the user to find their way around easily and quickly
 - I want to show a few pictures for potential customers so they can get an idea of what they can expect
+- I want them to have access to our menu so they know the selection and understand what kind of food can be offered 
 
 
-#3. Design of the webpage
-##Design decisions
+
+##**2. Design of the webpage**
+####**Design decisions**
 Given that the restaurant is in the middle of the Atlantic Ocean on a small island covered with palm trees, the idea was to include lots of teal, blue, aquamarine, and green. Some red and gold were used so that we have contrast and increased visibility for the vision-impaired customers.
 
 The idea is to create a tropical/ocean vibe, with bright colours to match the style of the restaurant itself (relaxed, semi-vacation, a bit adventurous, unique, casual)
