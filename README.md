@@ -6,7 +6,7 @@
 
 
 ##*Table of content*
-[User experience](#user-exp)
+[User expectation](#user-expectation)
 
 #1. Project Goal
 
