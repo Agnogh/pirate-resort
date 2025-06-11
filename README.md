@@ -200,7 +200,7 @@ All tabs have names and symbols
 ![About menu](assets/images/Pirate%20Resort%20-%20Get%20Cupons%20-%20New.jpg)
 
 
-# Footer
+###* Footer*
 ![Footer](https://github.com/user-attachments/assets/e91709ae-b2ec-43d5-a216-c24818e5fce4)
 
 
@@ -209,7 +209,7 @@ More than the usual number of icons placed to make sure it will wrap nicely
 ![Footer](https://github.com/user-attachments/assets/3e4e8b08-02b0-4ad2-a291-30f5063f8c4e)
 
 
-# Background images
+### *Background images*
 For the nav bar, something similar was done where idea was to represent more sky.
 ![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
 
@@ -220,15 +220,16 @@ The footer was something related to water (so opposite of the nav bar and sky).
 ![wave-footer-background](https://github.com/user-attachments/assets/f7aca0f0-b079-406f-9ae0-01f567c09768)
 
 
-#Technology and tools used
-##Languages
+##*Technology and tools used*
+###Languages
 - HTML
 - CSS
 
-##Tools
+###*Tools*
 - Git
 - GitHub
 - Gitpod
+- Freeform
 - TextEdit
 - BBEdit
 - Word
@@ -242,40 +243,41 @@ The footer was something related to water (so opposite of the nav bar and sky).
 - Pen and paper (as some things need to be placed quickly before ideas go away)
 
 
-## Additional help
+## *Additional help*
 - Training materials
 - YouTube
 - *I intentionally didn't want to reach out to tutors as I wanted to make this work on my own, using knowledge and materials I have*
 
 
-# Feature
-## Navigation bar
+## Feature
+## *Navigation bar*
 
-Contains 5 (five) pages, while the selected page goes "on top" and "landing page" takes up the position of "landing page" so that the order remains the same all the time 
-0. Landing page
-*Starting page* gives a basic intro and serves as a hub for all other pages. Focus is more on visual effects than on text to attract potential customers using graphics.
+Contains 5 (five) pages + 2 pages that ae accessd from 4th page in the row "Rewards Centre". Rewards Centre has:
+- drop down menu
+- text entry fileds for name and email (mandatory) and phone number (optional) + command button that is operational once mandatory filelds are populated corectlly
+- command button for user to be redirected to follow up page
+
+1. Landing page
+*Starting page* gives a basic intro 
+Focus is both visual effects (using graphics) and text to attract potential customers.
 The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty
-![Landing page menu](https://github.com/user-attachments/assets/01f82f9e-537b-4073-828b-303705231470)
+![Landing page menu](assets/images/Pirate%20Resort%20-%20Landing%20Page%20-%20New.jpg)
 
 1. Food menu
 *First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, alergens or similar. Clear and simple but enough to spark the imagination. 
-![Food_Menu](https://github.com/user-attachments/assets/385a1ba0-020b-4d95-9a71-1d93f4a21021)
+![Food_Menu](assets/images/Pirate%20Resort%20-%20Food%20Menu%20-%20New.jpg)
 
 3. Contact
 *2nd page in line* is the one user will most likely check next after checking the food menu. Location, how to get there, where can user find us, how to contact us. Simple UI, with little but all-important information without any other elements that are not directly related to how to reach out to us
-![Contact menu](https://github.com/user-attachments/assets/af3cddff-4711-42bc-a3d0-160362d85301)
+![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
 
 5. Loyalty and Reward centre
 *middle page* and also the 3rd form the left and 3rd that user will most likely select contains basic things to get sign up, fill the questioner and even request discount vauchers. Again, it is simple and easy to use, with not too much or too little interaction.
-![Loyalty page](https://github.com/user-attachments/assets/1baf2652-0ec3-4e3c-814c-0f4b571cda9e)
+![Reward Centre page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
 
 7. Gallery
-*2nd before last* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
-![Gallery Menu](https://github.com/user-attachments/assets/7153e1fb-af3c-4754-83f1-4c6b359fe94f)
-
-9. About us
-*Last in the list* and most likely the last one that will be selected, but still needed to get the visitors of the website and potentially customers familiar with who are we, how we get there, why, when and under what circumstances. It is a story, but the text is not taking away users' time. It just tells it in a few lines
-![About menu](https://github.com/user-attachments/assets/fb6ca2de-79b7-4317-8efb-29102c72ea72)
+*last page in the row* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
+![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
 
 
 The difference is between small and large devices to accommodate spacing and avoid truncations and overlapping
@@ -372,8 +374,9 @@ Dekptop computers
 - https://github.com/
 
 
-# Deployment
+## Deployment
 *https://agnogh.github.io/pirate-resort/*
+
 
 
 ## Bugs
@@ -382,20 +385,30 @@ The ones that were fixed after were:
 - Few typos
 - The sign-in process has mandatory fields and optional fields
 - Sign-in process gets user alert messages for name and email
-- Adding "number" type in number field (it was "email" before)
+- Adding "number" type in the number field (it was "email" before)
 - Duplicate items in the food menu (2 times "sea beast burgers")
 - Addon to Read me
 - Various minor enhancements
-- Changing from style=number (where there are increase and decrease numberical value) to style=tel (where we can add letters on top of numbers, but we do not have buttons for increase or decrease numerical value)
+- Changing from style=number (where there are increase and decrease numerical values) to style=tel (where we can add letters on top of numbers, but we do not have buttons for increase or decrease numerical value)
+- 'About us' is removed as requested by the validator and we kept 5 constant pages instead of 5 + 1 active page shown at the top that rotated based on what was currently selected
+- adjusting that the order of items in the Main Menu is consistent instead of rotating
+- Get coupons and Subscription pages that have background images
+- Get Coupons and Subscription pages have added Main Menu items so users can return to any menu (not just Rewards Centre) depending on what tab is selected
+- For consistency reasons both 'Get Coupons' and 'Subscription page' have a footer
+- adding image on the text holder for 'Get Coupons' & 'Subscription'
+- Modifying text in the description and font size for all panes
+- The 1st sentence on a landing page is not threaded as the title and is slightly larger than the rest of the text in the same UI
+- Correcting the title on the 'Subscription' page to make a difference between that one and 'Get Coupons'
+- Additional styling added for text on text holder (top left/right, centre, bottom left/right) so that difference is more distinguished between smaller and larger devices
+- Adding additional fonts (Sour - Gummy) as previous ones might be hard to read despite enlarged and bold 
+- Enhancing Media rules to have smoother 'transition' from one device size to  another
+- Adding higher quality pictures for backgrounds to avoid possibility of pixalated graphics
+- Keep that each site has different and more thematic background instead fo repetative same one (all are high quality that are not causing blurry image)
+
+
 
 
 ## Thanks
-Thanks to my superiors and peers at work, where I felt unappreciated, overlooked and unsupported, I was highly motivated to change my job and career and, consequently, get this project completed despite having a 10-hour work day.
+Thanks to my superiors and peers at work, where I felt unappreciated, overlooked, and unsupported, I was highly motivated to change my job and career, and consequently, complete this project despite having a 10-hour workday.
 
 
-
-6. ~~About us is placed at the end of the row as it needs to be presented to potential customers, but it is not something everyone will look at~~ Had to be removed as 6 tabs was too much and I had to restrict 
-
-~~Order is placed in a way that each item will *always* be positioned at its place (food on 1st, contact on 2nd, Loyalty on 3rdm Gallery on 4th and About on 5th place), while the "landing page" will by default be in the title or take up the position in the header when the selected item moves to the title.~~
-
-~~I went with an approach that each section has a separate webpage, but the user can always return to the main page or any other 5 pages available from the top (all 6 pages have a consistent look/appearance).~~
