@@ -6,7 +6,23 @@
 
 
 ##*Table of content*
-[User expectation](#user-expectation)
+- [Project goal](#project-goal)
+    - [User goals](#user-goals)
+    - [Site Owner goal](#site-owner-goal)
+    - [User Experience](#user-experience)
+        - [Targeted group](#targeted-group)
+    - [User expectation](#user-expectation)
+    - [User Stories](#user-stories)
+        - [1st time users](#1st-time-users)
+        - [Returning users](#returning-users)
+        - [Owner of the restaurant](#owner-of-the-restaurant)
+- [Owner of the restaurant](#owner-of-the-restaurant)
+    - [Design of the webpage](#design-of-the-webpage)
+    - [Design decisions](#design-decisions)
+
+        
+
+    
 
 ##**1. Project Goal**
 
@@ -28,7 +44,7 @@
 - Share some pictures for a user to get a glimpse of the experience that awaits the user
 
 
-###**User Exp**
+###**User Experience**
 ####**Targeted group**
 - People who are travellers on a specific route
 - People who appreciate good, unique food, atmosphere and environment
@@ -44,9 +60,9 @@
 - Affordable prices
 - Trying something that cannot be found normally
 
-##**User Stories**
+###**User Stories**
 
-###**1st time users**
+####**1st time users**
 - I want to know the location
 - I want to know the availability of the food menu
 - I want to know the prices
@@ -54,13 +70,13 @@
 - I want to taste food that is nowhere to be found 
 - I want to have breakfast, lunch or dinner in a place that barely has any civilization
 
-###**Returning users**
+####**Returning users**
 - I want to continue getting discounts
 - I want to try other dishes
 - I want to experience what I had 1st time around
 - I want contact details so I can reserve a spot
 
-###**Owner of the restaurant**
+####**Owner of the restaurant**
 - I want more subscribers so I can share updates regularly and increase potential clients as a targeted group is smaller than usual
 - I want clients to have our contact to have them visit again
 - I want potential customers to have all info in an effortless and straightforward way
