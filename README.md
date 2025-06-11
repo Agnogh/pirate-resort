@@ -117,11 +117,11 @@ Due to the "way too stylish" appearance of fonts like "Lavishly Yours" and "Tang
 
 
 
-##Structure
+##**Structure**
 To match the casual style, the decision to go with a straightforward and simple approach. 
 I decided to go with 5 (five) separate pages divided into
-![Small devices](https://github.com/user-attachments/assets/154e9b46-1fcd-432e-9274-fbdeb9f1cdb5)
-![large device](https://github.com/user-attachments/assets/ef0c6da9-fc33-4ee2-bb7d-eb95c7e9bab2)
+![Small devices](assets/images/Small%20Device%20UI%20-%20new.jpg)
+![large device](assets/images/Large%20device%20UI%20-%20New.jpg)
 
 
 
@@ -137,13 +137,25 @@ Each section has a separate webpage, but the user can always return to the main 
 
 2 additional webpages for "Coupons" and "Subscription" have the same UI as other pages but they are accessed only from the "Reward Centre" (Loyalty) page. From these 2 pages, the user can navigate to any of the 5 pages.
 
-![Order 1 nav bar](https://github.com/user-attachments/assets/4aa2c581-4a57-45b4-875d-b4d5c53e6ab2)
-![Order 2 nav bar](https://github.com/user-attachments/assets/f2dd8622-d55a-44a2-9a0d-c24023486615)
-![Order 3 nav bar](https://github.com/user-attachments/assets/cb030125-dbf5-4b90-b24e-949a87087501)
-![Order 4 nav bar](https://github.com/user-attachments/assets/de655eef-0fe4-4bc2-838a-89eeaf499875)
-![Order 5 nav bar](https://github.com/user-attachments/assets/688540c6-9713-4375-b1e3-7c44f4918ddf)
+*Pirate Resort*
+![Pirate Resort Landing Page](assets/images/Pirate%20Resort%20-%20Small%20-%20New.jpg)
 
+*Food Menu*
+![Food Menu Page](assets/images/Food%20Menu%20-%20Small%20-%20New.jpg)
 
+*Contact*
+![Contact Page](assets/images/Contact%20-%20Small%20-%20New.jpg)
+
+*Loyalty*
+![Loyalty Centre Page](assets/images/Reward%20Centre%20-%20Small%20-%20New.jpg)
+
+*Gallery*
+![Gallery Page](assets/images/Gallery%20-%20Small%20-%20New.jpg)
+
+*Get Cupons Page - from Loyalty Centre Page*
+![Get Cupons Page](assets/images/Get%20Cupons%20-%20Small%20-%20New.jpg)
+*Subscription Page - from Loyalty Centre Page*
+![Subscription Page](assets/images/Subscription%20-%20Small%20-%20New.jpg)
 
 Making it complex with lots of dropdown menus (despite consuming less space) seems like a setback and an additional click was needed for the user.
 
@@ -152,55 +164,59 @@ To avoid truncations decision was made to replace full title names (using charac
 
 On larger devices, I set that the full name is displayed (icons are removed as they would be redundant in this case)  
 
-Small devices nav bar
-![Nav bar - small](https://github.com/user-attachments/assets/066505e6-3541-4b7e-9ffe-90ae530c6c9d)
+*Small devices navigation bar*
+![Nav bar - small](assets/images/Navigation%20Bar%20-%20Small%20-%20New.jpg)
 
-Large devices nav bar
-![Nav bar - big](https://github.com/user-attachments/assets/4ab8951f-e764-4ced-8049-cf3e002b2dce)
+*Large devices navigation bar*
+![Nav bar - big](assets/images/Large%20devices%20nav%20bar%20-%20New.jpg)
 
 
-# Tab names
-![Tab names](https://github.com/user-attachments/assets/c8b365a6-d764-40bb-94b8-1e67ac1acb79)
+###**Tab names**
+
 All tabs have names and symbols
+![Tab names](assets/images/Tab%20names%20and%20symbols%20-%20New.jpg)
 
 
-#Home page / Main Page and header
-1. Landing page
-![Landing page menu](https://github.com/user-attachments/assets/01f82f9e-537b-4073-828b-303705231470)
+###*Home page / Main Page and header*
+1. *Landing page*
+![Landing page menu](assets/images/Pirate%20Resort%20-%20Landing%20Page%20-%20New.jpg)
 
-2. Food menu 
-![Food_Menu](https://github.com/user-attachments/assets/385a1ba0-020b-4d95-9a71-1d93f4a21021)
+2. *Food menu*
+![Food_Menu](assets/images/Pirate%20Resort%20-%20Food%20Menu%20-%20New.jpg)
 
-3. Contact 
-![Contact menu](https://github.com/user-attachments/assets/af3cddff-4711-42bc-a3d0-160362d85301)
+3. *Contact* 
+![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
 
-4. Loyalty and Reward centre
-![Loyalty page](https://github.com/user-attachments/assets/1baf2652-0ec3-4e3c-814c-0f4b571cda9e)
+4. *Loyalty and Reward centre*
+![Loyalty page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
 
-5. Gallery
-![Gallery Menu](https://github.com/user-attachments/assets/7153e1fb-af3c-4754-83f1-4c6b359fe94f)
+5. *Gallery*
+![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
 
-6. About us 
-![About menu](https://github.com/user-attachments/assets/fb6ca2de-79b7-4317-8efb-29102c72ea72)
+6. *Subscription* 
+![About menu](assets/images/Pirate%20Resort%20-%20Subscription%20-%20New.jpg)
+
+7. *Get Cupons* 
+![About menu](assets/images/Pirate%20Resort%20-%20Get%20Cupons%20-%20New.jpg)
 
 
 # Footer
 ![Footer](https://github.com/user-attachments/assets/e91709ae-b2ec-43d5-a216-c24818e5fce4)
 
 
-Shadows were added for stylistic reasons
+Shadows were added for stylistic reasons.
 More than the usual number of icons placed to make sure it will wrap nicely
 ![Footer](https://github.com/user-attachments/assets/3e4e8b08-02b0-4ad2-a291-30f5063f8c4e)
 
 
 # Background images
-For the nav bar, I did something similar where I wanted to represent more sky
+For the nav bar, something similar was done where idea was to represent more sky.
 ![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
 
 For the Gallery page, I set both colour and background image in case images do not load, background colour can give contrast to the context making it stand out.
 ![water_background_for_gallery](https://github.com/user-attachments/assets/f6958bcd-c712-4f22-8a5d-692f44e3516d)
 
-The footer was something related to water (so opposite of the nav bar and sky)
+The footer was something related to water (so opposite of the nav bar and sky).
 ![wave-footer-background](https://github.com/user-attachments/assets/f7aca0f0-b079-406f-9ae0-01f567c09768)
 
 
