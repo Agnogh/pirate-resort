@@ -547,6 +547,7 @@ footer {
     #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 85%;
     }
+        
 }
 
 @media screen and (min-height: 1000px) {
@@ -590,6 +591,7 @@ footer {
     #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 90%;
     }
+
 }
 
 @media screen and (min-height: 1200px) {
@@ -633,6 +635,7 @@ footer {
 #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
     font-size: 120%;
     }
+
 }
 
 /* media query for width */
@@ -647,6 +650,9 @@ footer {
     footer {
         padding: 3%;
         font-size: 100%;
+    }
+    h2, h3 {
+        font-size: 110%;        
     }
 }
 
@@ -665,6 +671,9 @@ footer {
     }
     #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 80%;
+    }
+    h2, h3 {
+        font-size: 130%;        
     }
 }
 
@@ -685,9 +694,12 @@ footer {
     footer {
         padding: 3%;
     }
-/*    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 100%;
-    } */
+    }
+    h2, h3 {
+        font-size: 110%;        
+    }
 }
 
 
@@ -707,9 +719,12 @@ footer {
     footer {
         padding: 3%;
     }
-/*    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 120%;
-    } */
+    }
+    h2, h3 {
+        font-size: 110%;        
+    }
 }
 
 @media screen and (max-width: 767px) {
