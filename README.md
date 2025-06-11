@@ -124,6 +124,10 @@ I decided to go with 5 (five) separate pages divided into
 ![large device](assets/images/Large%20device%20UI%20-%20New.jpg)
 
 
+#**Wireframes**
+Wireframes are done on paper and then when the idea was in place it was transferred to digital form using Freeform
+
+![Skeleton](assets/images/Wireframe%20-%20New.jpg)
 
 1. Landing page that is also basic "about" & "intro" page
 2. Food menu (second from the top left position)
@@ -404,6 +408,7 @@ The ones that were fixed after were:
 - Enhancing Media rules to have smoother 'transition' from one device size to  another
 - Adding higher quality pictures for backgrounds to avoid possibility of pixalated graphics
 - Keep that each site has different and more thematic background instead fo repetative same one (all are high quality that are not causing blurry image)
+- Adding additional 'Code Institute' logo to make 'Get Cupons' & 'Subscription? websites more populated
 
 
 
