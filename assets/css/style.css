@@ -654,6 +654,12 @@ footer {
     h2, h3 {
         font-size: 110%;        
     }
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+        font-size: 70%;
+        }
+    #cover_text_upper_left > h2, #cover_text_upper_right > h2, #cover_text_lower_left > h2, #cover_text_lower_right > h2, #cover_text_mid-centre > h2 {
+        font-size: 90%;    
+    }
 }
 
 @media screen and (min-width: 390px) {
@@ -661,7 +667,7 @@ footer {
         font-size: 190%;
     }
     .header_list {
-        font-size: 150%;
+        font-size: 120%;
     }
     #social_media {
         font-size: 130%;
@@ -669,11 +675,14 @@ footer {
     footer {
         padding: 3%;
     }
-    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
-        font-size: 80%;
-    }
     h2, h3 {
         font-size: 130%;        
+    }
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+        font-size: 80%;
+        }
+    #cover_text_upper_left > h2, #cover_text_upper_right > h2, #cover_text_lower_left > h2, #cover_text_lower_right > h2, #cover_text_mid-centre > h2 {
+        font-size: 110%;    
     }
 }
 
@@ -686,7 +695,7 @@ footer {
         font-size: 220%;
     }
     .header_list {
-        font-size: 160%;
+        font-size: 140%;
     }
     #social_media {
         font-size: 150%;
@@ -694,11 +703,14 @@ footer {
     footer {
         padding: 3%;
     }
+    h2, h3 {
+        font-size: 100%;        
+    }
     #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
         font-size: 100%;
     }
-    h2, h3 {
-        font-size: 110%;        
+    #cover_text_upper_left > h2, #cover_text_upper_right > h2, #cover_text_lower_left > h2, #cover_text_lower_right > h2, #cover_text_mid-centre > h2 {
+        font-size: 130%;    
     }
 }
 
@@ -711,7 +723,7 @@ footer {
         font-size: 260%;
     }
     .header_list {
-        font-size: 200%;
+        font-size: 170%;
     }
     #social_media {
         font-size: 200%;
@@ -719,11 +731,14 @@ footer {
     footer {
         padding: 3%;
     }
-    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
-        font-size: 120%;
-    }
     h2, h3 {
-        font-size: 110%;        
+        font-size: 100%;        
+    }
+    #cover_text_upper_left > h3, #cover_text_upper_right > h3, #cover_text_lower_left > h3, #cover_text_lower_right > h3, #cover_text_mid-centre > h3 {
+        font-size: 110%;
+    }
+    #cover_text_upper_left > h2, #cover_text_upper_right > h2, #cover_text_lower_left > h2, #cover_text_lower_right > h2, #cover_text_mid-centre > h2 {
+        font-size: 140%;
     }
 }
 
