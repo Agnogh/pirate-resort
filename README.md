@@ -106,28 +106,37 @@ rgb(255, 192, 203)
 rgb(41, 49, 41)
 rgb(0, 128, 128)
 
-##*Fonts:*
-I tried to create more "Adventure/Pirate/Caribbean/Ocean atmosphere from the late 18th century, so specific fonts were used like "Rouge Script", "Tangerine", "Dancing Floor", and "Lavishly Yours". I still decided to add more "common" fonts like "lato", "Oswald" as a fallback font to distinguish from whatever browser might use.
+##**Fonts:**
+An attempt was to create more "Adventure/Pirate/Caribbean/Ocean atmosphere from the late 18th century, so specific fonts were used like "Rouge Script", "Tangerine", "Dancing Floor", and "Lavishly Yours". I still decided to add more "common" fonts like "lato", "Oswald" as a fallback font to distinguish from whatever browser might use
+
+Due to the "way too stylish" appearance of fonts like "Lavishly Yours" and "Tangerine", they had to be removed from Menu Items (menu tabs) as visibility was not the best even when put as bold and with very distinguished colours used as background and font.
+
+"Dancing Script" and "Sour Gummy" were doing the job properly as suitable replacements where the style was kept with better visibility and readability.
+
+"Lavishly Yours" was used for the title due to the large font size and the standalone names of each tab so readability was not compromised.
+
 
 
 ##Structure
-To match the casual style, I decided to go with a straightforward and simple approach. 
-I decided to go with 6 (six) separate pages divided into
+To match the casual style, the decision to go with a straightforward and simple approach. 
+I decided to go with 5 (five) separate pages divided into
 ![Small devices](https://github.com/user-attachments/assets/154e9b46-1fcd-432e-9274-fbdeb9f1cdb5)
 ![large device](https://github.com/user-attachments/assets/ef0c6da9-fc33-4ee2-bb7d-eb95c7e9bab2)
 
 
 
-1. Landing page
-2. Food menu (first from the top left position)
-3. Contact (second after the food menu, as it is most important after checking the availability of items on the menu)
+1. Landing page that is also basic "about" & "intro" page
+2. Food menu (second from the top left position)
+3. Contact (third after the food menu, as it is most important after checking the availability of items on the menu)
 4. Loyalty and Reward centre (as I believe this would be the next step in attracting the customers - discounts/vouchers)
 5. Gallery where user can see pictures of the location and food prepared
-6. About us is placed at the end of the row as it needs to be presented to potential customers, but it is not something everyone will look at 
 
-Order is placed in a way that each item will *always* be positioned at its place (food on 1st, contact on 2nd, Loyalty on 3rdm Gallery on 4th and About on 5th place), while the "landing page" will by default be in the title or take up the position in the header when the selected item moves to the title.
+Order is placed in a way that each item will *always* be positioned at its place (Main page on 1st, Food on 2nd, Contact on 3rd, Loyalty on 4th and  Gallery on 5th place)
 
-I went with an approach that each section has a separate webpage, but the user can always return to the main page or any other 5 pages available from the top (all 6 pages have a consistent look/appearance).
+Each section has a separate webpage, but the user can always return to the main page or any other 5 pages available from the top (all 5 pages have a consistent look/appearance).
+
+2 additional webpages for "Coupons" and "Subscription" have the same UI as other pages but they are accessed only from the "Reward Centre" (Loyalty) page. From these 2 pages, the user can navigate to any of the 5 pages.
+
 ![Order 1 nav bar](https://github.com/user-attachments/assets/4aa2c581-4a57-45b4-875d-b4d5c53e6ab2)
 ![Order 2 nav bar](https://github.com/user-attachments/assets/f2dd8622-d55a-44a2-9a0d-c24023486615)
 ![Order 3 nav bar](https://github.com/user-attachments/assets/cb030125-dbf5-4b90-b24e-949a87087501)
@@ -136,10 +145,12 @@ I went with an approach that each section has a separate webpage, but the user c
 
 
 
-Making it complex with lots of dropdown menus (despite consuming less space) seems like a setback and an additional click.
+Making it complex with lots of dropdown menus (despite consuming less space) seems like a setback and an additional click was needed for the user.
 
-I avoided truncations by replacing full title names (using characters) with symbols and emojis on smaller devices. On larger devices, I set that the full name is displayed.
+The decision was made to go with tab views on smaller devices (same as on the larger ones)
+To avoid truncations decision was made to replace full title names (using characters) with symbols and emojis on smaller devices. Emojis are fully related to the topic of the tab. Piece of paper and dish for Food Menu. Anchor and Pirate flag symbol for the Main Page of Pirate Resort. Royal crown and gift wrapped for royalty reward centre. Film and Camera icons for the Gallery page. 
 
+On larger devices, I set that the full name is displayed (icons are removed as they would be redundant in this case)  
 
 Small devices nav bar
 ![Nav bar - small](https://github.com/user-attachments/assets/066505e6-3541-4b7e-9ffe-90ae530c6c9d)
@@ -364,3 +375,11 @@ The ones that were fixed after were:
 
 ## Thanks
 Thanks to my superiors and peers at work, where I felt unappreciated, overlooked and unsupported, I was highly motivated to change my job and career and, consequently, get this project completed despite having a 10-hour work day.
+
+
+
+6. ~~About us is placed at the end of the row as it needs to be presented to potential customers, but it is not something everyone will look at~~ Had to be removed as 6 tabs was too much and I had to restrict 
+
+~~Order is placed in a way that each item will *always* be positioned at its place (food on 1st, contact on 2nd, Loyalty on 3rdm Gallery on 4th and About on 5th place), while the "landing page" will by default be in the title or take up the position in the header when the selected item moves to the title.~~
+
+~~I went with an approach that each section has a separate webpage, but the user can always return to the main page or any other 5 pages available from the top (all 6 pages have a consistent look/appearance).~~
