@@ -24,9 +24,9 @@
 
     
 
-##**1. Project Goal**
+## **1. Project Goal**
 
-###**User goals**
+### **User goals**
 - Finding a place distant from all civilization and pollution (calm and filled with tranquillity)
 - Trying out the food not by any standards or specific recipes
 - Taste something different
@@ -34,7 +34,7 @@
 - Different theme
 - More casual, but still high-quality service
 
-###**Site owner goal**
+### **Site owner goal**
 - Provide a unique experience
 - Attract specific types of people (passengers on a long voyage, adventures and people who appreciate finer things)
 - Attract people who want to experience peace, calm, good food and rest from a long voyage
@@ -44,8 +44,8 @@
 - Share some pictures for a user to get a glimpse of the experience that awaits the user
 
 
-###**User Experience**
-####**Targeted group**
+### **User Experience**
+#### **Targeted group**
 - People who are travellers on a specific route
 - People who appreciate good, unique food, atmosphere and environment
 - Adventures 
@@ -53,16 +53,16 @@
 - Anyone who wants to escape busy street (or law)
 - People who like less formal, more casual and relaxed atmospheres, while still receiving perfect service
 
-###**User expectation**
+### **User expectation**
 - Simple directions (it is the only island 100 miles away)
 - Limited food choices but with excellent quality and unique ingredients
 - Warm and nice weather, palm trees, chill atmosphere, relaxed mood, delicious food
 - Affordable prices
 - Trying something that cannot be found normally
 
-###**User Stories**
+### **User Stories**
 
-####**1st time users**
+#### **1st time users**
 - I want to know the location
 - I want to know the availability of the food menu
 - I want to know the prices
@@ -70,13 +70,13 @@
 - I want to taste food that is nowhere to be found 
 - I want to have breakfast, lunch or dinner in a place that barely has any civilization
 
-####**Returning users**
+#### **Returning users**
 - I want to continue getting discounts
 - I want to try other dishes
 - I want to experience what I had 1st time around
 - I want contact details so I can reserve a spot
 
-####**Owner of the restaurant**
+#### **Owner of the restaurant**
 - I want more subscribers so I can share updates regularly and increase potential clients as a targeted group is smaller than usual
 - I want clients to have our contact to have them visit again
 - I want potential customers to have all info in an effortless and straightforward way
@@ -86,13 +86,13 @@
 
 
 
-##**2. Design of the webpage**
-####**Design decisions**
+## **2. Design of the webpage**
+### **Design decisions**
 Given that the restaurant is in the middle of the Atlantic Ocean on a small island covered with palm trees, the idea was to include lots of teal, blue, aquamarine, and green. Some red and gold were used so that we have contrast and increased visibility for the vision-impaired customers.
 
 The idea is to create a tropical/ocean vibe, with bright colours to match the style of the restaurant itself (relaxed, semi-vacation, a bit adventurous, unique, casual)
 
-##Color
+### **Color**
 *Full list - most frequently used colours*
 rgb(127, 255, 212)
 rgb(30, 124, 183)
@@ -122,7 +122,7 @@ rgb(255, 192, 203)
 rgb(41, 49, 41)
 rgb(0, 128, 128)
 
-##**Fonts:**
+### **Fonts:**
 An attempt was to create more "Adventure/Pirate/Caribbean/Ocean atmosphere from the late 18th century, so specific fonts were used like "Rouge Script", "Tangerine", "Dancing Floor", and "Lavishly Yours". I still decided to add more "common" fonts like "lato", "Oswald" as a fallback font to distinguish from whatever browser might use
 
 Due to the "way too stylish" appearance of fonts like "Lavishly Yours" and "Tangerine", they had to be removed from Menu Items (menu tabs) as visibility was not the best even when put as bold and with very distinguished colours used as background and font.
@@ -133,14 +133,14 @@ Due to the "way too stylish" appearance of fonts like "Lavishly Yours" and "Tang
 
 
 
-##**Structure**
+### **Structure**
 To match the casual style, the decision to go with a straightforward and simple approach. 
 I decided to go with 5 (five) separate pages divided into
 ![Small devices](assets/images/Small%20Device%20UI%20-%20new.jpg)
 ![large device](assets/images/Large%20device%20UI%20-%20New.jpg)
 
 
-#**Wireframes**
+### **Wireframes**
 Wireframes are done on paper and then when the idea was in place it was transferred to digital form using Freeform
 
 ![Skeleton](assets/images/Wireframe%20-%20New.jpg)
@@ -191,7 +191,7 @@ On larger devices, I set that the full name is displayed (icons are removed as t
 ![Nav bar - big](assets/images/Large%20devices%20nav%20bar%20-%20New.jpg)
 
 
-###**Tab names**
+#### ***Tab names UI***
 
 All tabs have names and symbols
 ![Tab names](assets/images/Tab%20names%20and%20symbols%20-%20New.jpg)
@@ -220,7 +220,7 @@ All tabs have names and symbols
 ![About menu](assets/images/Pirate%20Resort%20-%20Get%20Cupons%20-%20New.jpg)
 
 
-###* Footer*
+#### ***Footer UI***
 ![Footer](https://github.com/user-attachments/assets/e91709ae-b2ec-43d5-a216-c24818e5fce4)
 
 
@@ -229,7 +229,7 @@ More than the usual number of icons placed to make sure it will wrap nicely
 ![Footer](https://github.com/user-attachments/assets/3e4e8b08-02b0-4ad2-a291-30f5063f8c4e)
 
 
-### *Background images*
+#### ***Background images***
 For the nav bar, something similar was done where idea was to represent more sky.
 ![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
 
@@ -240,12 +240,12 @@ The footer was something related to water (so opposite of the nav bar and sky).
 ![wave-footer-background](https://github.com/user-attachments/assets/f7aca0f0-b079-406f-9ae0-01f567c09768)
 
 
-##*Technology and tools used*
-###Languages
+## **Technology and tools used**
+### **Languages**
 - HTML
 - CSS
 
-###*Tools*
+### **Tools**
 - Git
 - GitHub
 - Gitpod
@@ -263,54 +263,74 @@ The footer was something related to water (so opposite of the nav bar and sky).
 - Pen and paper (as some things need to be placed quickly before ideas go away)
 
 
-## *Additional help*
+## **Additional help**
 - Training materials
 - YouTube
 - *I intentionally didn't want to reach out to tutors as I wanted to make this work on my own, using knowledge and materials I have*
 
 
-## Feature
-## *Navigation bar*
+## **Feature**
 
 Contains 5 (five) pages + 2 pages that ae accessd from 4th page in the row "Rewards Centre". Rewards Centre has:
 - drop down menu
 - text entry fileds for name and email (mandatory) and phone number (optional) + command button that is operational once mandatory filelds are populated corectlly
 - command button for user to be redirected to follow up page
 
-1. Landing page
+
+### ***Navigation bar link***
+
+Each title tab contains a link to redirect the user to the homepage for that respective title. The title (above tab in the navigation bar) also contains a link to that very same page (so clicking on it refreshes or reloads the page)
+
+
+### ***Footer links***
+
+It contains 7 social media, communication apps, or popular service icons linking to each platform's homepage in a new tab so that the user is left with the "Pirate Resort" page active.
+
+For stylistic reasons, buttons are slightly transparent with borders standing out and shadows on the left and bottom with corresponding colour (yellow-green) on the background picture (light blue-grey).
+
+
+### ***Redirection links for command buttons***
+
+The command button named "Get Coupons" on page "Loyalty Centre" redirects the user to the side page named "Get Coupons"
+
+The other command button "Submit" will redirect the user to the "Subscription" page under the condition that the username and email are populated. Additionally, the email needs to have a "@" sign for text entry filed to accept entry as an email.
+
+
+**1. Landing page**
 *Starting page* gives a basic intro 
 Focus is both visual effects (using graphics) and text to attract potential customers.
 The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty
 ![Landing page menu](assets/images/Pirate%20Resort%20-%20Landing%20Page%20-%20New.jpg)
 
-1. Food menu
+**2. Food menu**
 *First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, alergens or similar. Clear and simple but enough to spark the imagination. 
 ![Food_Menu](assets/images/Pirate%20Resort%20-%20Food%20Menu%20-%20New.jpg)
 
-3. Contact
+**3. Contact**
 *2nd page in line* is the one user will most likely check next after checking the food menu. Location, how to get there, where can user find us, how to contact us. Simple UI, with little but all-important information without any other elements that are not directly related to how to reach out to us
 ![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
 
-5. Loyalty and Reward centre
+**5. Loyalty and Reward centre**
 *middle page* and also the 3rd form the left and 3rd that user will most likely select contains basic things to get sign up, fill the questioner and even request discount vauchers. Again, it is simple and easy to use, with not too much or too little interaction.
 ![Reward Centre page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
 
-7. Gallery
+**7. Gallery**
 *last page in the row* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
 ![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
 
 
 The difference is between small and large devices to accommodate spacing and avoid truncations and overlapping
 
-**Large devices**
+***Large devices***
 ![large device](https://github.com/user-attachments/assets/20f5939f-6021-4fdf-af6c-0b971e76570a)
 
-**Small devices**
+***Small devices***
 ![Small devices](https://github.com/user-attachments/assets/35b4d664-42fc-4e3b-a297-2327007957d1)
 
 
-# Validation
-## HTML
+## **3. Validation**
+### **Validation Tools**
+#### **HTML**
 ![html-about us - 0 errors](https://github.com/user-attachments/assets/9577cf20-d4f9-4d22-861b-bf1a37d06630)
 ![html-contact - 0 errors](https://github.com/user-attachments/assets/6827b350-97f1-48e4-98db-793bce474fd8)
 ![html-food menu - 0 errors](https://github.com/user-attachments/assets/d98fa83d-0459-4b46-9742-afe82448c15e)
@@ -318,11 +338,11 @@ The difference is between small and large devices to accommodate spacing and avo
 ![html-gallery - 0 errors](https://github.com/user-attachments/assets/610efefa-0afa-4124-853f-79ca25dc8569)
 
 
-## CSS
+#### **CSS**
 ![No errors found](https://github.com/user-attachments/assets/ca3d96b2-f17f-4cef-81e7-456c316dc150)
 
 
-## Accessibility
+#### **Accessibility**
 Accessibility is at a high of 98%
 ![Accessibility](https://github.com/user-attachments/assets/2009077f-bebb-4996-bad5-592f598e15dc)
 
@@ -332,7 +352,7 @@ Additionally, having lots of media queries that I sorted into 5-6 categories for
 ![Performance](https://github.com/user-attachments/assets/c10fa2c3-b2aa-44c1-81ff-543028a740e6)
 
 
-## Responsivnes
+#### **Responsivnes**
 On top of using pages for responsive, I checked over 20 virtual devices and responsive behaviour just to be sure various device size are fitted
 ![Responsivnes](https://github.com/user-attachments/assets/f3a15439-4353-4c23-a08b-3c85de47220d)
 
@@ -349,8 +369,8 @@ Nest Hub, Nest Hub Max
 - *Large siye*
 Dekptop computers
 
-
-## Devices used
+### **QA & Bug fixes**
+#### **Devices used**
 - Huawei P smart
 - Samsung A15
 - iPad 15
@@ -361,12 +381,43 @@ Dekptop computers
 - Nitro 5, Ryzan 7
 
 
-## Browsers used
-### Chrome
-### Safari
+#### **Browsers used**
+*Chrome*
+
+*Safari*
 
 
-## Links
+#### **Bugs**
+There were several bugs along the way, but most were fixed before deployment when applying validators or responsive design
+The ones that were fixed after were:
+- Few typos
+- The sign-in process has mandatory fields and optional fields
+- Sign-in process gets user alert messages for name and email
+- Adding "number" type in the number field (it was "email" before)
+- Duplicate items in the food menu (2 times "sea beast burgers")
+- Addon to Read me
+- Various minor enhancements
+- Changing from style=number (where there are increase and decrease numerical values) to style=tel (where we can add letters on top of numbers, but we do not have buttons for increase or decrease numerical value)
+- 'About us' is removed as requested by the validator and we kept 5 constant pages instead of 5 + 1 active page shown at the top that rotated based on what was currently selected
+- adjusting that the order of items in the Main Menu is consistent instead of rotating
+- Get coupons and Subscription pages that have background images
+- Get Coupons and Subscription pages have added Main Menu items so users can return to any menu (not just Rewards Centre) depending on what tab is selected
+- For consistency reasons both 'Get Coupons' and 'Subscription page' have a footer
+- adding image on the text holder for 'Get Coupons' & 'Subscription'
+- Modifying text in the description and font size for all panes
+- The 1st sentence on a landing page is not threaded as the title and is slightly larger than the rest of the text in the same UI
+- Correcting the title on the 'Subscription' page to make a difference between that one and 'Get Coupons'
+- Additional styling added for text on text holder (top left/right, centre, bottom left/right) so that difference is more distinguished between smaller and larger devices
+- Adding additional fonts (Sour - Gummy) as previous ones might be hard to read despite enlarged and bold 
+- Enhancing Media rules to have smoother 'transition' from one device size to  another
+- Adding higher quality pictures for backgrounds to avoid possibility of pixalated graphics
+- Keep that each site has different and more thematic background instead fo repetative same one (all are high quality that are not causing blurry image)
+- Adding additional 'Code Institute' logo to make 'Get Cupons' & 'Subscription? websites more populated
+
+
+## **4. Support and help**
+
+### **Links**
 *Font and icons related*
 - https://www.fontpair.co/all
 - typ.io/lists
@@ -394,37 +445,11 @@ Dekptop computers
 - https://github.com/
 
 
-## Deployment
+### **Deployment**
 *https://agnogh.github.io/pirate-resort/*
 
 
 
-## Bugs
-There were several bugs along the way, but most were fixed before deployment when applying validators or responsive design
-The ones that were fixed after were:
-- Few typos
-- The sign-in process has mandatory fields and optional fields
-- Sign-in process gets user alert messages for name and email
-- Adding "number" type in the number field (it was "email" before)
-- Duplicate items in the food menu (2 times "sea beast burgers")
-- Addon to Read me
-- Various minor enhancements
-- Changing from style=number (where there are increase and decrease numerical values) to style=tel (where we can add letters on top of numbers, but we do not have buttons for increase or decrease numerical value)
-- 'About us' is removed as requested by the validator and we kept 5 constant pages instead of 5 + 1 active page shown at the top that rotated based on what was currently selected
-- adjusting that the order of items in the Main Menu is consistent instead of rotating
-- Get coupons and Subscription pages that have background images
-- Get Coupons and Subscription pages have added Main Menu items so users can return to any menu (not just Rewards Centre) depending on what tab is selected
-- For consistency reasons both 'Get Coupons' and 'Subscription page' have a footer
-- adding image on the text holder for 'Get Coupons' & 'Subscription'
-- Modifying text in the description and font size for all panes
-- The 1st sentence on a landing page is not threaded as the title and is slightly larger than the rest of the text in the same UI
-- Correcting the title on the 'Subscription' page to make a difference between that one and 'Get Coupons'
-- Additional styling added for text on text holder (top left/right, centre, bottom left/right) so that difference is more distinguished between smaller and larger devices
-- Adding additional fonts (Sour - Gummy) as previous ones might be hard to read despite enlarged and bold 
-- Enhancing Media rules to have smoother 'transition' from one device size to  another
-- Adding higher quality pictures for backgrounds to avoid possibility of pixalated graphics
-- Keep that each site has different and more thematic background instead fo repetative same one (all are high quality that are not causing blurry image)
-- Adding additional 'Code Institute' logo to make 'Get Cupons' & 'Subscription? websites more populated
 
 
 
