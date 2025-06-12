@@ -135,7 +135,7 @@ Due to the "way too stylish" appearance of fonts like "Lavishly Yours" and "Tang
 
 ### **Structure**
 To match the casual style, the decision to go with a straightforward and simple approach. 
-I decided to go with 5 (five) separate pages divided into
+I decided to go with 5 (five) separate pages divided into main sections that are "Landing page" (Called Pirate Resort), "Food Menu" page, Contact (containing email, adress/location, phone/fax number and reminder that there are links to social media platforms and communciation apps), Loyalty Centre (also refered to "Redard Centre or Loyalty centre), Gallery (containing pictures)
 ![Small devices](assets/images/Small%20Device%20UI%20-%20new.jpg)
 ![large device](assets/images/Large%20device%20UI%20-%20New.jpg)
 
@@ -153,29 +153,86 @@ Wireframes are done on paper and then when the idea was in place it was transfer
 
 Order is placed in a way that each item will *always* be positioned at its place (Main page on 1st, Food on 2nd, Contact on 3rd, Loyalty on 4th and  Gallery on 5th place)
 
-Each section has a separate webpage, but the user can always return to the main page or any other 5 pages available from the top (all 5 pages have a consistent look/appearance).
+Each section has a separate webpage, but the user can always return to the main page or any other 4 pages available from the top (all 5 pages have a consistent look/appearance).
 
 2 additional webpages for "Coupons" and "Subscription" have the same UI as other pages but they are accessed only from the "Reward Centre" (Loyalty) page. From these 2 pages, the user can navigate to any of the 5 pages.
 
+
+**1. Landing page**
+*Starting page* gives a basic intro 
+Focus is both visual effects (using graphics) and text to attract potential customers.
+The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty
+
 *Pirate Resort*
+
 ![Pirate Resort Landing Page](assets/images/Pirate%20Resort%20-%20Small%20-%20New.jpg)
 
+*Pirate Resort - full page*
+
+![Landing page menu](assets/images/Pirate%20Resort%20-%20Landing%20Page%20-%20New.jpg)
+
+
+**2. Food menu**
+*First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, alergens or similar. Clear and simple but enough to spark the imagination. 
+
 *Food Menu*
+
 ![Food Menu Page](assets/images/Food%20Menu%20-%20Small%20-%20New.jpg)
 
+*Food Menu - full page*
+
+![Food_Menu](assets/images/Pirate%20Resort%20-%20Food%20Menu%20-%20New.jpg)
+
+**3. Contact**
+*2nd page in line* is the one user will most likely check next after checking the food menu. Location, how to get there, where can user find us, how to contact us. Simple UI, with little but all-important information without any other elements that are not directly related to how to reach out to us
+
 *Contact*
+
 ![Contact Page](assets/images/Contact%20-%20Small%20-%20New.jpg)
 
+*Contact - full page*
+
+![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
+
+**4. Loyalty and Reward centre**
+*middle page* and also the 3rd form the left and 3rd that user will most likely select contains basic things to get sign up, fill the questioner and even request discount vauchers. Again, it is simple and easy to use, with not too much or too little interaction.
+
 *Loyalty*
+
 ![Loyalty Centre Page](assets/images/Reward%20Centre%20-%20Small%20-%20New.jpg)
+
+*Loyalty - full page*
+
+![Reward Centre page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
+
+**5. Gallery**
+*last page in the row* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
 
 *Gallery*
 ![Gallery Page](assets/images/Gallery%20-%20Small%20-%20New.jpg)
 
+*Gallery - full page*
+![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
+
+-------------------
 *Get Cupons Page - from Loyalty Centre Page*
+
 ![Get Cupons Page](assets/images/Get%20Cupons%20-%20Small%20-%20New.jpg)
+
 *Subscription Page - from Loyalty Centre Page*
+
 ![Subscription Page](assets/images/Subscription%20-%20Small%20-%20New.jpg)
+
+-------------------
+The difference is between small and large devices to accommodate spacing and avoid truncations and overlapping
+
+***Large devices***
+![large device](assets/images/Tabs%20with%20large%20devices%20-%20NEW.jpg)
+
+***Small devices***
+![Small devices](assets/images/Tabs%20with%20small%20devices%20-%20NEW.jpg)
+
+
 
 Making it complex with lots of dropdown menus (despite consuming less space) seems like a setback and an additional click was needed for the user.
 
@@ -188,7 +245,7 @@ On larger devices, I set that the full name is displayed (icons are removed as t
 ![Nav bar - small](assets/images/Navigation%20Bar%20-%20Small%20-%20New.jpg)
 
 *Large devices navigation bar*
-![Nav bar - big](assets/images/Large%20devices%20nav%20bar%20-%20New.jpg)
+![Nav bar - big](assets/images/Navigation%20Bar%20-%20Large%20-%20New.jpg)
 
 
 #### ***Tab names UI***
@@ -199,34 +256,41 @@ All tabs have names and symbols
 
 ###*Home page / Main Page and header*
 1. *Landing page*
+
 ![Landing page menu](assets/images/Pirate%20Resort%20-%20Landing%20Page%20-%20New.jpg)
 
 2. *Food menu*
+
 ![Food_Menu](assets/images/Pirate%20Resort%20-%20Food%20Menu%20-%20New.jpg)
 
-3. *Contact* 
+3. *Contact*
+
 ![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
 
 4. *Loyalty and Reward centre*
+
 ![Loyalty page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
 
 5. *Gallery*
+
 ![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
 
-6. *Subscription* 
+6. *Subscription*
+
 ![About menu](assets/images/Pirate%20Resort%20-%20Subscription%20-%20New.jpg)
 
-7. *Get Cupons* 
+7. *Get Cupons*
+
 ![About menu](assets/images/Pirate%20Resort%20-%20Get%20Cupons%20-%20New.jpg)
 
 
 #### ***Footer UI***
-![Footer](https://github.com/user-attachments/assets/e91709ae-b2ec-43d5-a216-c24818e5fce4)
+![Footer](assets/images/Footer%202%20-%20NEW.jpg)
 
 
 Shadows were added for stylistic reasons.
 More than the usual number of icons placed to make sure it will wrap nicely
-![Footer](https://github.com/user-attachments/assets/3e4e8b08-02b0-4ad2-a291-30f5063f8c4e)
+![Footer](assets/images/Footer%20icons%20small%20device%20-%20NEW.jpg)
 
 
 #### ***Background images***
@@ -294,38 +358,6 @@ For stylistic reasons, buttons are slightly transparent with borders standing ou
 The command button named "Get Coupons" on page "Loyalty Centre" redirects the user to the side page named "Get Coupons"
 
 The other command button "Submit" will redirect the user to the "Subscription" page under the condition that the username and email are populated. Additionally, the email needs to have a "@" sign for text entry filed to accept entry as an email.
-
-
-**1. Landing page**
-*Starting page* gives a basic intro 
-Focus is both visual effects (using graphics) and text to attract potential customers.
-The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty
-![Landing page menu](assets/images/Pirate%20Resort%20-%20Landing%20Page%20-%20New.jpg)
-
-**2. Food menu**
-*First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, alergens or similar. Clear and simple but enough to spark the imagination. 
-![Food_Menu](assets/images/Pirate%20Resort%20-%20Food%20Menu%20-%20New.jpg)
-
-**3. Contact**
-*2nd page in line* is the one user will most likely check next after checking the food menu. Location, how to get there, where can user find us, how to contact us. Simple UI, with little but all-important information without any other elements that are not directly related to how to reach out to us
-![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
-
-**5. Loyalty and Reward centre**
-*middle page* and also the 3rd form the left and 3rd that user will most likely select contains basic things to get sign up, fill the questioner and even request discount vauchers. Again, it is simple and easy to use, with not too much or too little interaction.
-![Reward Centre page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
-
-**7. Gallery**
-*last page in the row* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
-![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
-
-
-The difference is between small and large devices to accommodate spacing and avoid truncations and overlapping
-
-***Large devices***
-![large device](https://github.com/user-attachments/assets/20f5939f-6021-4fdf-af6c-0b971e76570a)
-
-***Small devices***
-![Small devices](https://github.com/user-attachments/assets/35b4d664-42fc-4e3b-a297-2327007957d1)
 
 
 ## **3. Validation**
