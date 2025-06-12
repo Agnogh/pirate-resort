@@ -363,11 +363,27 @@ The other command button "Submit" will redirect the user to the "Subscription" p
 ## **3. Validation**
 ### **Validation Tools**
 #### **HTML**
-![html-about us - 0 errors](https://github.com/user-attachments/assets/9577cf20-d4f9-4d22-861b-bf1a37d06630)
-![html-contact - 0 errors](https://github.com/user-attachments/assets/6827b350-97f1-48e4-98db-793bce474fd8)
-![html-food menu - 0 errors](https://github.com/user-attachments/assets/d98fa83d-0459-4b46-9742-afe82448c15e)
+
+*About us site*
+![html-about us - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20About%20-%20NEW.jpg)
+
+*Food Menu site*
+![html-contact - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Food%20Menu%20-%20NEW.jpg)
+
+*Contact site*
+![html-contact - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Contact%20-%20NEW.jpg)
+
+
 ![html-landing page - 0 errors](https://github.com/user-attachments/assets/9db73e27-8390-4d5d-8f85-e276493131c6)
-![html-gallery - 0 errors](https://github.com/user-attachments/assets/610efefa-0afa-4124-853f-79ca25dc8569)
+
+*Gallery site*
+![html-gallery - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Gallery%20-%20NEW.jpg)
+
+*Get Cuponst site*
+![html-get cupons - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Get%20Cupons%20-%20NEW.jpg)
+
+*Subscription site*
+![html-subscription - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Subscription%20-%20NEW.jpg)
 
 
 #### **CSS**
@@ -398,7 +414,7 @@ iPad, iPad Pro, iPad Air, iPad Mini, Surface Pro 7, Surface Duo,
 - *Medimu size devices (laptops)*
 Nest Hub, Nest Hub Max
 
-- *Large siye*
+- *Large size*
 Dekptop computers
 
 ### **QA & Bug fixes**
