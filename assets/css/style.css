@@ -136,7 +136,7 @@ body {
 
 /* Header rules */
 header {
-    color:brown;
+    color:Light Yellow;
     background: url(../images/Palm\ tree\ and\ blue\ sky) center center/cover;
     background-color: rgb(30, 124, 183);
     padding: 0 1rem;
@@ -157,7 +157,7 @@ h1 {
     font-family: "Dancing Script", "Rouge Script", "Lavishly Yours", "Rouge Script", "Oswald";
     text-transform: uppercase; 
     letter-spacing: 4px;
-    color: rgb(255, 6, 6);
+    color: Yellow;
     margin-bottom: 0.5em;
     margin-top: 1em;
     font-size: 130%;
