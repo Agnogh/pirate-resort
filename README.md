@@ -1,7 +1,7 @@
-"# pirate-resort" 
-#
+
+
 # Pirate-resort
-#
+-----------------------
 
 
 
@@ -50,15 +50,10 @@
     - [Thanks](#thanks)
 
         
-
-
-    
-
-
-    
+-----------------------
 
 ## **1. Project Goal**
-
+-----------------------
 ### **User goals**
 - Finding a place distant from all civilization and pollution (calm and filled with tranquillity)
 - Trying out the food not by any standards or specific recipes
@@ -78,6 +73,7 @@
 
 
 ### **User Experience**
+-----------------------
 #### **Targeted group**
 - People who are travellers on a specific route
 - People who appreciate good, unique food, atmosphere and environment
@@ -120,8 +116,9 @@
 
 
 ## **2. Design of the webpage**
+-----------------------
 ### **Design decisions**
-Given that the restaurant is in the middle of the Atlantic Ocean on a small island covered with palm trees, the idea was to include lots of teal, blue, aquamarine, and green. Some red and gold were used so that we have contrast and increased visibility for the vision-impaired customers.
+Given that the restaurant is in the middle of the Atlantic Ocean on a small island covered with palm trees, the idea was to include lots of teal, blue, aquamarine, and green. Some red and gold were used to create contrast and increase increase visibility the vision-impaired customers.
 
 The idea is to create a tropical/ocean vibe, with bright colours to match the style of the restaurant itself (relaxed, semi-vacation, a bit adventurous, unique, casual)
 
@@ -167,8 +164,8 @@ Due to the "way too stylish" appearance of fonts like "Lavishly Yours" and "Tang
 
 
 ### **Structure**
-To match the casual style, the decision to go with a straightforward and simple approach. 
-I decided to go with 5 (five) separate pages divided into main sections that are "Landing page" (Called Pirate Resort), "Food Menu" page, Contact (containing email, adress/location, phone/fax number and reminder that there are links to social media platforms and communciation apps), Loyalty Centre (also refered to "Redard Centre or Loyalty centre), Gallery (containing pictures)
+To match the casual style, the decision is to go with a straightforward and simple approach. 
+I decided to go with 5 (five) separate pages divided into main sections that are "Landing page" (Called Pirate Resort), "Food Menu" page, Contact (containing email, address/location, phone/fax number and reminder that there are links to social media platforms and communication apps), Loyalty Centre (also referred to "Redard Centre or Loyalty centre), Gallery (containing pictures)
 ![Small devices](assets/images/Small%20Device%20UI%20-%20new.jpg)
 ![large device](assets/images/Large%20device%20UI%20-%20New.jpg)
 
@@ -194,7 +191,7 @@ Each section has a separate webpage, but the user can always return to the main 
 **1. Landing page**
 *Starting page* gives a basic intro 
 Focus is both visual effects (using graphics) and text to attract potential customers.
-The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty
+The text is short and divided into small sections to give the user a pause and time to sink into a sense of relaxation, calm and beauty.
 
 *Pirate Resort*
 
@@ -206,7 +203,7 @@ The text is short and divided into small sections to give the user a pause and t
 
 
 **2. Food menu**
-*First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, alergens or similar. Clear and simple but enough to spark the imagination. 
+*First page* user will pay attention to the page after the initial opening of the website. It is a place where only food choices are displayed and nothing else to distract user from it. Names are unique, short and without description about ingredients, preparation, allergens or similar. Clear and simple but enough to spark the imagination. 
 
 *Food Menu*
 
@@ -227,8 +224,8 @@ The text is short and divided into small sections to give the user a pause and t
 
 ![Contact menu](assets/images/Pirate%20Resort%20-%20Contact%20-%20New.jpg)
 
-**4. Loyalty and Reward centre**
-*middle page* and also the 3rd form the left and 3rd that user will most likely select contains basic things to get sign up, fill the questioner and even request discount vauchers. Again, it is simple and easy to use, with not too much or too little interaction.
+**4. Loyalty and Reward Centre**
+*middle page* and also the 3rd form the left and 3rd that the user will most likely select contains basic things to sign up, fill out the questionnaire and even request discount vouchers. Again, it is simple and easy to use, with not too much or too little interaction.
 
 *Loyalty*
 
@@ -239,7 +236,7 @@ The text is short and divided into small sections to give the user a pause and t
 ![Reward Centre page](assets/images/Pirate%20Resort%20-%20Reward%20Centre%20-%20New.jpg)
 
 **5. Gallery**
-*last page in the row* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
+*last page in the row* contains only pictures of our place and the food we prepare. No text, nothing to distract visitor at all. Small gaps are left between pictures for stylistic purposes. A picture tells 1000 words, so this page is all about visual interpretation.
 
 *Gallery*
 ![Gallery Page](assets/images/Gallery%20-%20Small%20-%20New.jpg)
@@ -248,16 +245,16 @@ The text is short and divided into small sections to give the user a pause and t
 ![Gallery Menu](assets/images/Pirate%20Resort%20-%20Gallery%20-%20New.jpg)
 
 -------------------
-*Get Cupons Page - from Loyalty Centre Page*
+*Get Coupons Page - from Loyalty Centre Page*
 
-![Get Cupons Page](assets/images/Get%20Cupons%20-%20Small%20-%20New.jpg)
+![Get Coupons Page](assets/images/Get%20Cupons%20-%20Small%20-%20New.jpg)
 
 *Subscription Page - from Loyalty Centre Page*
 
 ![Subscription Page](assets/images/Subscription%20-%20Small%20-%20New.jpg)
 
 -------------------
-The difference is between small and large devices to accommodate spacing and avoid truncations and overlapping
+The difference is between small and large devices to accommodate spacing and avoid truncations and overlapping.
 
 ***Large devices***
 ![large device](assets/images/Tabs%20with%20large%20devices%20-%20NEW.jpg)
@@ -312,7 +309,7 @@ All tabs have names and symbols
 
 ![About menu](assets/images/Pirate%20Resort%20-%20Subscription%20-%20New.jpg)
 
-7. *Get Cupons*
+7. *Get Coupons*
 
 ![About menu](assets/images/Pirate%20Resort%20-%20Get%20Cupons%20-%20New.jpg)
 
@@ -327,7 +324,7 @@ More than the usual number of icons placed to make sure it will wrap nicely
 
 
 #### ***Background images***
-For the nav bar, something similar was done where idea was to represent more sky.
+For the nav bar, something similar was done where the idea was to represent more sky.
 ![header_background_image](https://github.com/user-attachments/assets/f8511518-8410-410c-915f-ca455d9be1b7)
 
 For the Gallery page, I set both colour and background image in case images do not load, background colour can give contrast to the context making it stand out.
@@ -368,15 +365,15 @@ The footer was something related to water (so opposite of the nav bar and sky).
 
 ## **Feature**
 
-Contains 5 (five) pages + 2 pages that ae accessd from 4th page in the row "Rewards Centre". Rewards Centre has:
-- drop down menu
-- text entry fileds for name and email (mandatory) and phone number (optional) + command button that is operational once mandatory filelds are populated corectlly
-- command button for user to be redirected to follow up page
+Contains 5 (five) pages + 2 pages that are accessed from the 4th page in the row "Rewards Centre". Rewards Centre has:
+- drop-down menu
+- text entry fields for name and email (mandatory) and phone number (optional) + command button that is operational once mandatory fields are populated correctly
+- command button for a user to be redirected to the follow-up page
 
 
 ### ***Navigation bar link***
 
-Each title tab contains a link to redirect the user to the homepage for that respective title. The title (above tab in the navigation bar) also contains a link to that very same page (so clicking on it refreshes or reloads the page)
+Each title tab includes a link to redirect the user to the homepage for that respective title. The title (above tab in the navigation bar) also contains a link to that very same page (so clicking on it refreshes or reloads the page)
 
 
 ### ***Footer links***
@@ -417,9 +414,9 @@ The other command button "Submit" will redirect the user to the "Subscription" p
 
 ![html-gallery - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Gallery%20-%20NEW.jpg)
 
-*Get Cuponst site*
+*Get Coupons site*
 
-![html-get cupons - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Get%20Cupons%20-%20NEW.jpg)
+![html-get coupons - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Get%20Cupons%20-%20NEW.jpg)
 
 *Subscription site*
 
@@ -434,30 +431,30 @@ The other command button "Submit" will redirect the user to the "Subscription" p
 Accessibility is at a high of 100%
 ![Accessibility](assets/images/Accessibility%20-%20100%20-%20NEW.jpg)
 
-Other values worth mentioning are 96% of Best practices
+Other values worth mentioning are 100% of Best practices
 Performance is at 76% due to using background images and background colours, if images fail to load.
-Additionally, having lots of media queries that I sorted into 5-6 categories for height and 3-4 for width to have better responsivnes contribute to this (on top of 7-year-old computer and opened over 30 tabs in Chrome)
+Additionally, having lots of media queries that I sorted into 5-6 categories for height and 3-4 for width to have better responsibilities contributed to this (on top of a 7-year-old computer and opened over 30 tabs in Chrome)
 ![Performance](assets/images/Accessibility%20-%20100%20-%20NEW.jpg)
 
 
 #### **Responsivnes**
-On top of using pages for responsive, I checked over 20 virtual devices and responsive behaviour just to be sure various device size are fitted
+On top of using pages for responsive, I checked over 20 virtual devices and responsive behaviour just to be sure various device sizes were fitted
 ![Responsivnes](assets/images/Responsivnes%20-%20NEW.jpg)
 
 ![Responsivnes](assets/images/Responsivnes%202%20-%20NEW.jpg)
 
-*Device list are:*
+*Device list is:*
 - *Smaller devices*
 iPhone XR, iPhone SE, iPhone 12, iPhone 14 Pro, Galaxy S9, Galaxy S8, Galaxy S5, Salaxy S20, Galaxy A51/71, Pixel 7
 
-- *Medimu devices (tablets)*
+- *Medium devices (tablets)*
 iPad, iPad Pro, iPad Air, iPad Mini, Surface Pro 7, Surface Duo,
 
 - *Medimu size devices (laptops)*
 Nest Hub, Nest Hub Max
 
 - *Large size*
-Dekptop computers
+Desktop computers
 
 ### **QA & Bug fixes**
 #### **Devices used**
@@ -478,7 +475,7 @@ Dekptop computers
 
 
 #### **Bugs**
-There were several bugs along the way, but most were fixed before deployment when applying validators or responsive design
+There were several bugs along the way, but most were fixed before deployment when applying validators or responsive design.
 The ones that were fixed after were:
 - Few typos
 - The sign-in process has mandatory fields and optional fields
@@ -493,24 +490,25 @@ The ones that were fixed after were:
 - Get coupons and Subscription pages that have background images
 - Get Coupons and Subscription pages have added Main Menu items so users can return to any menu (not just Rewards Centre) depending on what tab is selected
 - For consistency reasons both 'Get Coupons' and 'Subscription page' have a footer
-- adding image on the text holder for 'Get Coupons' & 'Subscription'
+- Adding an image on the text holder for 'Get Coupons' & 'Subscription'
 - Modifying text in the description and font size for all panes
 - The 1st sentence on a landing page is not threaded as the title and is slightly larger than the rest of the text in the same UI
 - Correcting the title on the 'Subscription' page to make a difference between that one and 'Get Coupons'
 - Additional styling added for text on text holder (top left/right, centre, bottom left/right) so that difference is more distinguished between smaller and larger devices
 - Adding additional fonts (Sour - Gummy) as previous ones might be hard to read despite enlarged and bold 
-- Enhancing Media rules to have smoother 'transition' from one device size to  another
-- Adding higher quality pictures for backgrounds to avoid possibility of pixalated graphics
-- Keep that each site has different and more thematic background instead fo repetative same one (all are high quality that are not causing blurry image)
-- Adding additional 'Code Institute' logo to make 'Get Cupons' & 'Subscription? websites more populated
-- bug fixes - adjsuting bottom left and right text holders to better fit and not overlapp each other on larger screens
-- Adding styling for command buttons so that there is increase symetric increase based on the device size
+- Enhancing Media rules to have a smoother 'transition' from one device size to  another
+- Adding higher quality pictures for backgrounds to avoid thr possibility of pixelated graphics
+- Keep that each site has a different and more thematic background instead of repetitive same one (all are high quality that do not cause blurry images)
+- Adding additional 'Code Institute' logo to make 'Get Coupons' & 'Subscription' websites more populated
+- Adjusting bottom left and right text holders to better fit and not overlap each other on larger screens
+- Adding styling for command buttons so that there is increase symmetric increase based on the device size
 - Adding styling for labels on 'rewards centre'
-- Adding styling from drop down menu to follow increase with the rest of the text 
-- Fixing the path for background image for 'Gallery' site
-- Matching the 'index.html' with 'about us' so that innitial landing page looks like 'about us' due to bugfixes to have max 5
-- Correcting capitalization issue in 1st tab on landing page
-- Adding contrast colour on h3 element (that were not visible in the first place) jsut to pass accessibility validator
+- Adding styling from the drop-down menu to follow increase with the rest of the text 
+- Fixing the path for a background image for 'Gallery' site
+- Matching the 'index.html' with 'about us' so that the initial landing page looks like 'about us' due to bugfixes to have max 5
+- Correcting capitalization issue in 1st tab on the landing page
+- Adding contrast colour on h3 element (that was not visible in the first place) just to pass the accessibility validator
+- Changing "Cupons" to "Coupons" all over this project just as I am wrapping it up (!!!!!)
 
 
 ## **4. Support and help**
