@@ -365,24 +365,31 @@ The other command button "Submit" will redirect the user to the "Subscription" p
 #### **HTML**
 
 *About us site*
+
 ![html-about us - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20About%20-%20NEW.jpg)
 
 *Food Menu site*
+
 ![html-contact - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Food%20Menu%20-%20NEW.jpg)
 
 *Contact site*
+
 ![html-contact - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Contact%20-%20NEW.jpg)
 
+*Reward Centre*
 
-![html-landing page - 0 errors](https://github.com/user-attachments/assets/9db73e27-8390-4d5d-8f85-e276493131c6)
+![html-landing page - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Loyalty%20-%20NEW.jpg)
 
 *Gallery site*
+
 ![html-gallery - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Gallery%20-%20NEW.jpg)
 
 *Get Cuponst site*
+
 ![html-get cupons - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Get%20Cupons%20-%20NEW.jpg)
 
 *Subscription site*
+
 ![html-subscription - 0 errors](assets/images/html%20checker%20Pirate%20Resort%20-%20Subscription%20-%20NEW.jpg)
 
 

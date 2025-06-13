@@ -6,7 +6,8 @@
 /* Start of the Fonts listed */
 .dancing-script-agn {
     font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
+/* I need to comment this out so that css validatior doesnt throw errors
+    font-optical-sizing: auto; */
     font-weight: 400;
     font-style: normal;
   }
@@ -107,7 +108,8 @@
   
   .sour-gummy-special {
   font-family: "Sour Gummy", sans-serif;
-  font-optical-sizing: auto;
+  /* I need to comment this out so that CSS validator doesnt give me errors 
+  font-optical-sizing: auto; */
   font-weight: 400;
   font-style: normal;
   font-variation-settings:
@@ -136,7 +138,7 @@ body {
 
 /* Header rules */
 header {
-    color:Light Yellow;
+    color:Yellow;
     background: url(../images/Palm\ tree\ and\ blue\ sky) center center/cover;
     background-color: rgb(30, 124, 183);
     padding: 0 1rem;
@@ -197,7 +199,7 @@ h2, h3 {
     color: gold;
     font-style: oblique;
     font-size: 80%;
-    font: bold;
+    font-weight: bold;
 }
 
 .item_in_the_list {
@@ -244,7 +246,7 @@ main {
 #main_background_picture_loyalty {
     height: 1250px;
     width: 100%;
-    background: url(../images/NEW\ Reward.jpg) no-repeat center center/cover;
+    background: url("../images/NEW\ Reward.jpg") no-repeat center center/cover;
 }
 
 #main_background_picture_menu {
