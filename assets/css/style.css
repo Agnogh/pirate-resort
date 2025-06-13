@@ -375,6 +375,30 @@ input {
     background-color: pink;
 }
 
+.form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+    justify-content: center;
+}
+
+.form-row label {
+    font-family: "Sour Gummy", "Dancing Script", "Tangerine", "Lavishly Yours", "Rouge Script", "Oswald", "lato";
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: honeydew;
+    font-size: 100%;
+    margin-right: 1em;
+    min-width: 130px; /* ensures alignment */
+    text-align: right;
+}
+
+.form-row input {
+    padding: 0.4em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
 #photos_for_gallery_page img {
     width: 100%;
 }
