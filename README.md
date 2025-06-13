@@ -19,8 +19,41 @@
 - [Owner of the restaurant](#owner-of-the-restaurant)
     - [Design of the webpage](#design-of-the-webpage)
     - [Design decisions](#design-decisions)
+        - [Color](#color)
+        - [Fonts](#fonts)
+        - [Structure](#structure)
+        - [Wireframe](#wireframe)
+            - [Tab names UI](#tab-names-ui)
+            - [Footer UI](#footer-ui)
+            - [Background images](#background-images)
+    - [Technology and tools used](#technology-and-tools-used)
+        - [Languages](#languages)
+        - [Tools](#tools)
+    - [Additional help](#additional-help)
+    - [Feature](#feature)
+        - [Navigation bar link](#navigation-bar-link)
+        - [Footer links](#footer-links)
+        - [TooRedirection links for command buttonsls](#redirection-links-for-command-buttons)
+    - [Validation](#Vvalidation)
+        - [Validation Tools](#validation-tools)
+            - [HTML](#html)
+            - [CSS](#css)
+            - [Accessibility](#accessibility)
+            - [Responsivnes](#responsivnes)
+        - [QA & Bug fixes](#qa-&-bug-fixes)
+            - [Devices used](#devices-used)
+            - [Browsers used](#browsers-used)
+            - [Bugs](#bugs)
+    - [Support and help](#support-and-help)
+        - [Links](#links)
+        - [Deployment](#deployment)
+    - [Thanks](#thanks)
 
         
+
+
+    
+
 
     
 
@@ -516,7 +549,7 @@ The ones that were fixed after were:
 
 
 
-## Thanks
+## ***Thanks***
 Thanks to my superiors and peers at work, where I felt unappreciated, overlooked, and unsupported, I was highly motivated to change my job and career, and consequently, complete this project despite having a 10-hour workday.
 
 
