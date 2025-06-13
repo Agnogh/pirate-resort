@@ -208,7 +208,7 @@ h2, h3 {
 }
 
 main {
-    background: url(assets\images\water_background_for_gallery.jpg) repeat center center/cover;
+    background: url(../images/water_background_for_gallery.jpg) repeat center center/cover;
     flex: 1 0 auto;
     margin-top: 120px;
     height: 100%;
