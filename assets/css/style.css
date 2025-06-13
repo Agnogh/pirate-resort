@@ -177,6 +177,15 @@ h2, h3 {
     text-align: center;
 }
 
+#main_background_picture_get_cupons > h3 {
+    color: Yellow;
+}
+
+#main_background_picture_subscription > h3 {
+    color: Yellow;
+}
+
+
 .header_list {
     list-style-type: none;
     color:rgb(182, 243, 13);
