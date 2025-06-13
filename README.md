@@ -501,7 +501,7 @@ The ones that were fixed after were:
 - Keeping that each site has a different and more thematic background instead of repetitive same one (all are high quality that do not cause blurry images)
 - Adding additional 'Code Institute' logo to make 'Get Coupons' & 'Subscription' websites more populated
 - Adjusting bottom left and right text holders to better fit and not overlap each other on larger screens
-- Adding styling for command buttons so that there is symmetric increase based on the device size
+- Adding styling for command buttons so they are symmetrically increased based on the device size
 - Adding styling for labels on 'rewards centre'
 - Adding styling from the drop-down menu to follow increase with the rest of the text 
 - Fixing the path for a background image for 'Gallery' site
