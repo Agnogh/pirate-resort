@@ -399,6 +399,23 @@ input {
     border: 1px solid #ccc;
 }
 
+.form-caption {
+    font-family: "Sour Gummy", "Dancing Script", "Tangerine", "Lavishly Yours", "Rouge Script", "Oswald", "lato";
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: honeydew;
+    font-size: 100%;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+/* Rule for centering Get button */
+.center-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+
 #photos_for_gallery_page img {
     width: 100%;
 }
