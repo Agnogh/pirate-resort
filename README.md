@@ -468,6 +468,13 @@ The ones that were fixed after were:
 - Adding higher quality pictures for backgrounds to avoid possibility of pixalated graphics
 - Keep that each site has different and more thematic background instead fo repetative same one (all are high quality that are not causing blurry image)
 - Adding additional 'Code Institute' logo to make 'Get Cupons' & 'Subscription? websites more populated
+- bug fixes - adjsuting bottom left and right text holders to better fit and not overlapp each other on larger screens
+- Adding styling for command buttons so that there is increase symetric increase based on the device size
+- Adding styling for labels on 'rewards centre'
+- Adding styling from drop down menu to follow increase with the rest of the text 
+- Fixing the path for background image for 'Gallery' site
+- Matching the 'index.html' with 'about us' so that innitial landing page looks like 'about us' due to bugfixes to have max 5
+- Correcting capitalization issue in 1st tab on landing page
 
 
 ## **4. Support and help**
