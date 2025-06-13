@@ -431,18 +431,20 @@ The other command button "Submit" will redirect the user to the "Subscription" p
 
 
 #### **Accessibility**
-Accessibility is at a high of 98%
-![Accessibility](https://github.com/user-attachments/assets/2009077f-bebb-4996-bad5-592f598e15dc)
+Accessibility is at a high of 100%
+![Accessibility](assets/images/Accessibility%20-%20100%20-%20NEW.jpg)
 
 Other values worth mentioning are 96% of Best practices
-Performance is at 88& due to using background images and background colours, if images fail to load.
+Performance is at 76% due to using background images and background colours, if images fail to load.
 Additionally, having lots of media queries that I sorted into 5-6 categories for height and 3-4 for width to have better responsivnes contribute to this (on top of 7-year-old computer and opened over 30 tabs in Chrome)
-![Performance](https://github.com/user-attachments/assets/c10fa2c3-b2aa-44c1-81ff-543028a740e6)
+![Performance](assets/images/Accessibility%20-%20100%20-%20NEW.jpg)
 
 
 #### **Responsivnes**
 On top of using pages for responsive, I checked over 20 virtual devices and responsive behaviour just to be sure various device size are fitted
-![Responsivnes](https://github.com/user-attachments/assets/f3a15439-4353-4c23-a08b-3c85de47220d)
+![Responsivnes](assets/images/Responsivnes%20-%20NEW.jpg)
+
+![Responsivnes](assets/images/Responsivnes%202%20-%20NEW.jpg)
 
 *Device list are:*
 - *Smaller devices*
@@ -508,6 +510,7 @@ The ones that were fixed after were:
 - Fixing the path for background image for 'Gallery' site
 - Matching the 'index.html' with 'about us' so that innitial landing page looks like 'about us' due to bugfixes to have max 5
 - Correcting capitalization issue in 1st tab on landing page
+- Adding contrast colour on h3 element (that were not visible in the first place) jsut to pass accessibility validator
 
 
 ## **4. Support and help**
